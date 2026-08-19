@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankit-ydv25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/ankit-ydv25/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/ankit-ydv25/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ankit-ydv25/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankit-ydv25/LeetCode/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ankit-ydv25/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ankit-ydv25/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankit-ydv25/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankit-ydv25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ankit-ydv25/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
