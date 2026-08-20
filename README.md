@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ankit-ydv25/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/ankit-ydv25/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ankit-ydv25/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ankit-ydv25/LeetCode/tree/master/0326-power-of-three) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankit-ydv25/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
