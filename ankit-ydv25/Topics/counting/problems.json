@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-02T04:45:18.586Z",
+  "updatedAt": "2026-09-02T04:46:19.166Z",
   "problems": [
     {
       "frontendId": "387",
@@ -22,7 +22,7 @@
           "filename": "0387-first-unique-character-in-a-string.cpp",
           "path": "ankit-ydv25/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "4de0433ceda84608715c21e04190b289c4acac04",
-          "lastSyncedAt": "2026-09-02T04:45:18.586Z"
+          "lastSyncedAt": "2026-09-02T04:46:19.166Z"
         }
       ]
     }
