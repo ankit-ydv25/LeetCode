@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-02T04:32:33.844Z",
-  "problems": []
+  "updatedAt": "2026-09-02T04:34:36.819Z",
+  "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "ankit-ydv25/0242-valid-anagram/",
+      "readmePath": "ankit-ydv25/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "ankit-ydv25/0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "964a7cb0567250d22b0446ba6ba0cb2074d2f46c",
+          "lastSyncedAt": "2026-09-02T04:34:36.819Z"
+        }
+      ]
+    }
+  ]
 }
