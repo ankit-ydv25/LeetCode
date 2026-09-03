@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-03T05:53:07.552Z",
+  "updatedAt": "2026-09-03T05:55:59.274Z",
   "problems": [
     {
       "frontendId": "144",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
           "sha": "89f47d9d87aee024ae6863776152479a7ebcdd17",
           "lastSyncedAt": "2026-09-03T05:53:07.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "ankit-ydv25/0145-binary-tree-postorder-traversal/",
+      "readmePath": "ankit-ydv25/0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0145-binary-tree-postorder-traversal.cpp",
+          "path": "ankit-ydv25/0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
+          "sha": "ec4ec31a3d0c9853b6e5e22cab9ab8701709dc0c",
+          "lastSyncedAt": "2026-09-03T05:55:59.274Z"
         }
       ]
     }
