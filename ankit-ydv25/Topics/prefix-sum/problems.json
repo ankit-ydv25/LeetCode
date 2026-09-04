@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-09-04T16:26:33.457Z",
+  "problems": [
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "ankit-ydv25/3903-smallest-stable-index-i/",
+      "readmePath": "ankit-ydv25/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3903-smallest-stable-index-i.cpp",
+          "path": "ankit-ydv25/3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
+          "sha": "ddcec2a2bdf5b8176262e11169f31dc2ff950d28",
+          "lastSyncedAt": "2026-09-04T16:26:33.457Z"
+        }
+      ]
+    }
+  ]
+}
