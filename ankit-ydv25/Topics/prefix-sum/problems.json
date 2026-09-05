@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-04T16:26:33.457Z",
+  "updatedAt": "2026-09-05T04:49:17.143Z",
   "problems": [
     {
       "frontendId": "3903",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
           "sha": "ddcec2a2bdf5b8176262e11169f31dc2ff950d28",
           "lastSyncedAt": "2026-09-04T16:26:33.457Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "ankit-ydv25/3904-smallest-stable-index-ii/",
+      "readmePath": "ankit-ydv25/3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3904-smallest-stable-index-ii.cpp",
+          "path": "ankit-ydv25/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
+          "sha": "b90b829bcf4ff00e53867f2664ce82d26ecccfe2",
+          "lastSyncedAt": "2026-09-05T04:49:17.143Z"
         }
       ]
     }
