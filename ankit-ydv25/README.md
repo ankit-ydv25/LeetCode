@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 5 | 1 | 0 |
+| 7 | 5 | 2 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 4 |
+| 1 days | 4 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -19,21 +19,22 @@ Contains topicwise list of solved problems.
 | 2026-09-03 | 2 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 33% |
-| Binary Tree | 2 | 33% |
-| Depth-First Search | 2 | 33% |
-| Hash Table | 2 | 33% |
-| Prefix Sum | 2 | 33% |
-| Stack | 2 | 33% |
-| String | 2 | 33% |
-| Tree | 2 | 33% |
-| Counting | 1 | 17% |
-| Queue | 1 | 17% |
+| Array | 2 | 29% |
+| Binary Tree | 2 | 29% |
+| Depth-First Search | 2 | 29% |
+| Hash Table | 2 | 29% |
+| Prefix Sum | 2 | 29% |
+| Stack | 2 | 29% |
+| String | 2 | 29% |
+| Tree | 2 | 29% |
+| Counting | 1 | 14% |
+| Linked List | 1 | 14% |
 
 ## Topics
 
@@ -51,10 +52,11 @@ Contains topicwise list of solved problems.
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 0 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 2 |
