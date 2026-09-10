@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-10T12:46:08.634Z",
+  "updatedAt": "2026-09-10T12:46:13.246Z",
   "problems": [
     {
       "frontendId": "258",
@@ -22,7 +22,7 @@
           "filename": "0258-add-digits.cpp",
           "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
           "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
-          "lastSyncedAt": "2026-09-10T12:46:08.634Z"
+          "lastSyncedAt": "2026-09-10T12:46:13.246Z"
         }
       ]
     },
