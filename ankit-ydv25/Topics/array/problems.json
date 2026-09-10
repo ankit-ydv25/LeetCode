@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T12:51:46.346Z",
+  "updatedAt": "2026-09-10T12:56:53.246Z",
   "problems": [
     {
       "frontendId": "1550",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
           "sha": "c9007e6288cf325debe332c8ea508039eb5fafcd",
           "lastSyncedAt": "2026-09-10T12:51:46.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "ankit-ydv25/1822-sign-of-the-product-of-an-array/",
+      "readmePath": "ankit-ydv25/1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1822-sign-of-the-product-of-an-array.cpp",
+          "path": "ankit-ydv25/1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
+          "sha": "56543c2fdf3a9441df0d008c904a8df1574e0d04",
+          "lastSyncedAt": "2026-09-10T12:56:53.246Z"
         }
       ]
     },
