@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-10T12:37:45.220Z",
+  "updatedAt": "2026-09-10T12:46:08.634Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "ankit-ydv25/0258-add-digits/",
+      "readmePath": "ankit-ydv25/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
+          "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
+          "lastSyncedAt": "2026-09-10T12:46:08.634Z"
+        }
+      ]
+    },
     {
       "frontendId": "2652",
       "title": "Sum Multiples",
