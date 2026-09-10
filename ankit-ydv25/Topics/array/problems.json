@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-05T04:49:17.143Z",
+  "updatedAt": "2026-09-10T12:51:46.346Z",
   "problems": [
+    {
+      "frontendId": "1550",
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "problemName": "1550-three-consecutive-odds",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-consecutive-odds/",
+      "folderPath": "ankit-ydv25/1550-three-consecutive-odds/",
+      "readmePath": "ankit-ydv25/1550-three-consecutive-odds/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1550-three-consecutive-odds.cpp",
+          "path": "ankit-ydv25/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
+          "sha": "c9007e6288cf325debe332c8ea508039eb5fafcd",
+          "lastSyncedAt": "2026-09-10T12:51:46.346Z"
+        }
+      ]
+    },
     {
       "frontendId": "3903",
       "title": "Smallest Stable Index I",
