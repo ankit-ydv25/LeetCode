@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-09-10T12:37:45.220Z",
+  "problems": [
+    {
+      "frontendId": "2652",
+      "title": "Sum Multiples",
+      "slug": "sum-multiples",
+      "problemName": "2652-sum-multiples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-multiples/",
+      "folderPath": "ankit-ydv25/2652-sum-multiples/",
+      "readmePath": "ankit-ydv25/2652-sum-multiples/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2652-sum-multiples.cpp",
+          "path": "ankit-ydv25/2652-sum-multiples/2652-sum-multiples.cpp",
+          "sha": "dc14004198f4fceed06f95b4e1deb80afe38beaa",
+          "lastSyncedAt": "2026-09-10T12:37:45.220Z"
+        }
+      ]
+    }
+  ]
+}
