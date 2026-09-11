@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-09-11T15:00:55.563Z",
+  "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "ankit-ydv25/0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "ankit-ydv25/0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0019-remove-nth-node-from-end-of-list.cpp",
+          "path": "ankit-ydv25/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
+          "sha": "98683b3a2ac8bcc2bac76b2f0ed45407a77cbcaf",
+          "lastSyncedAt": "2026-09-11T15:00:55.563Z"
+        }
+      ]
+    }
+  ]
+}
