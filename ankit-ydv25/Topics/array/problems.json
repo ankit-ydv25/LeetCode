@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T12:56:53.246Z",
+  "updatedAt": "2026-09-11T15:05:45.611Z",
   "problems": [
     {
       "frontendId": "1550",
@@ -43,6 +43,26 @@
           "path": "ankit-ydv25/1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "56543c2fdf3a9441df0d008c904a8df1574e0d04",
           "lastSyncedAt": "2026-09-10T12:56:53.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "ankit-ydv25/1920-build-array-from-permutation/",
+      "readmePath": "ankit-ydv25/1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1920-build-array-from-permutation.cpp",
+          "path": "ankit-ydv25/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "sha": "b24bb6d86acf2d7e50821347d47636cf875cf37c",
+          "lastSyncedAt": "2026-09-11T15:05:45.611Z"
         }
       ]
     },
