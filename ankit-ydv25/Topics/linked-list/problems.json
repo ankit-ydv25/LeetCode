@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-11T15:00:55.563Z",
+  "updatedAt": "2026-09-11T15:18:49.201Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,6 +43,26 @@
           "path": "ankit-ydv25/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "43652ac2a35b52fc5359886a97a49ce954f626d2",
           "lastSyncedAt": "2026-09-08T04:40:18.923Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "problemName": "0083-remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "folderPath": "ankit-ydv25/0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "ankit-ydv25/0083-remove-duplicates-from-sorted-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0083-remove-duplicates-from-sorted-list.cpp",
+          "path": "ankit-ydv25/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.cpp",
+          "sha": "2292bf61e7e694f41a0dd57609122624e34c2632",
+          "lastSyncedAt": "2026-09-11T15:18:49.201Z"
         }
       ]
     }
