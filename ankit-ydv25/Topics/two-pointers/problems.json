@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-11T15:00:55.563Z",
+  "updatedAt": "2026-09-12T04:32:44.574Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
           "sha": "98683b3a2ac8bcc2bac76b2f0ed45407a77cbcaf",
           "lastSyncedAt": "2026-09-11T15:00:55.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "ankit-ydv25/0141-linked-list-cycle/",
+      "readmePath": "ankit-ydv25/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "ankit-ydv25/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "72d1b147d9450c573fbbfed07b74174d698e17aa",
+          "lastSyncedAt": "2026-09-12T04:32:44.574Z"
         }
       ]
     }
