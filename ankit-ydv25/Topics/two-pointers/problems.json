@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-12T04:32:52.114Z",
+  "updatedAt": "2026-09-12T04:40:42.550Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
           "sha": "98683b3a2ac8bcc2bac76b2f0ed45407a77cbcaf",
           "lastSyncedAt": "2026-09-11T15:00:55.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "ankit-ydv25/0088-merge-sorted-array/",
+      "readmePath": "ankit-ydv25/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0088-merge-sorted-array.cpp",
+          "path": "ankit-ydv25/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
+          "sha": "54942f4d87f01f642112f575937026c7c8675752",
+          "lastSyncedAt": "2026-09-12T04:40:42.550Z"
         }
       ]
     },
