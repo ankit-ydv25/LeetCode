@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-02T04:34:36.819Z",
+  "updatedAt": "2026-09-12T04:40:42.550Z",
   "problems": [
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "ankit-ydv25/0088-merge-sorted-array/",
+      "readmePath": "ankit-ydv25/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0088-merge-sorted-array.cpp",
+          "path": "ankit-ydv25/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
+          "sha": "54942f4d87f01f642112f575937026c7c8675752",
+          "lastSyncedAt": "2026-09-12T04:40:42.550Z"
+        }
+      ]
+    },
     {
       "frontendId": "242",
       "title": "Valid Anagram",
