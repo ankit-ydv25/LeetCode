@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-12T04:32:44.574Z",
+  "updatedAt": "2026-09-12T04:32:52.114Z",
   "problems": [
     {
       "frontendId": "19",
@@ -82,7 +82,7 @@
           "filename": "0141-linked-list-cycle.cpp",
           "path": "ankit-ydv25/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "72d1b147d9450c573fbbfed07b74174d698e17aa",
-          "lastSyncedAt": "2026-09-12T04:32:44.574Z"
+          "lastSyncedAt": "2026-09-12T04:32:52.114Z"
         }
       ]
     }
