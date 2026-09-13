@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-13T14:51:53.949Z",
+  "updatedAt": "2026-09-13T14:52:47.709Z",
   "problems": [
     {
       "frontendId": "172",
@@ -43,6 +43,26 @@
           "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
           "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
           "lastSyncedAt": "2026-09-10T12:46:13.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "problemName": "0989-add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+      "folderPath": "ankit-ydv25/0989-add-to-array-form-of-integer/",
+      "readmePath": "ankit-ydv25/0989-add-to-array-form-of-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0989-add-to-array-form-of-integer.cpp",
+          "path": "ankit-ydv25/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
+          "sha": "a8731f7284729f8fbb5583d4c591fc2efd9aa4c0",
+          "lastSyncedAt": "2026-09-13T14:52:47.709Z"
         }
       ]
     },
