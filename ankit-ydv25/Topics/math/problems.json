@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T15:17:17.004Z",
+  "updatedAt": "2026-09-14T15:39:20.527Z",
   "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "ankit-ydv25/0048-rotate-image/",
+      "readmePath": "ankit-ydv25/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "ankit-ydv25/0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "97f48fac79a50ba55d5f2b687b609117a271b14f",
+          "lastSyncedAt": "2026-09-14T15:39:20.527Z"
+        }
+      ]
+    },
     {
       "frontendId": "172",
       "title": "Factorial Trailing Zeroes",
