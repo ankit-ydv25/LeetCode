@@ -4,6 +4,27 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-02T04:32:33.844Z",
-  "problems": []
+  "updatedAt": "2026-09-14T15:39:20.527Z",
+  "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "ankit-ydv25/0048-rotate-image/",
+      "readmePath": "ankit-ydv25/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "ankit-ydv25/0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "97f48fac79a50ba55d5f2b687b609117a271b14f",
+          "lastSyncedAt": "2026-09-14T15:39:20.527Z"
+        }
+      ]
+    }
+  ]
 }
