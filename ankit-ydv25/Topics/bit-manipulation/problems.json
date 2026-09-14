@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-02T04:32:33.844Z",
-  "problems": []
+  "updatedAt": "2026-09-14T15:17:17.004Z",
+  "problems": [
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "ankit-ydv25/1486-xor-operation-in-an-array/",
+      "readmePath": "ankit-ydv25/1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1486-xor-operation-in-an-array.cpp",
+          "path": "ankit-ydv25/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
+          "sha": "e4809d904586758ca7174f43f33ac07568961e6c",
+          "lastSyncedAt": "2026-09-14T15:17:17.004Z"
+        }
+      ]
+    }
+  ]
 }
