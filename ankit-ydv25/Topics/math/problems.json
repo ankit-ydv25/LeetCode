@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-13T14:52:47.709Z",
+  "updatedAt": "2026-09-14T15:08:10.368Z",
   "problems": [
     {
       "frontendId": "172",
@@ -43,6 +43,26 @@
           "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
           "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
           "lastSyncedAt": "2026-09-10T12:46:13.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "problemName": "0836-rectangle-overlap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+      "folderPath": "ankit-ydv25/0836-rectangle-overlap/",
+      "readmePath": "ankit-ydv25/0836-rectangle-overlap/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0836-rectangle-overlap.cpp",
+          "path": "ankit-ydv25/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
+          "sha": "180386046879bfea27f4ccf3c2d7675b6f0d4caa",
+          "lastSyncedAt": "2026-09-14T15:08:10.368Z"
         }
       ]
     },
