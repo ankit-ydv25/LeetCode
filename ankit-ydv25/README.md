@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 14 | 4 | 0 |
+| 21 | 16 | 5 | 0 |
 
 ## Activity
 
@@ -24,32 +24,32 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 3 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 2 |
-| 2026-09-14 | 1 |
+| 2026-09-14 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 6 | 33% |
-| Math | 6 | 33% |
-| Linked List | 4 | 22% |
-| Hash Table | 3 | 17% |
-| Binary Tree | 2 | 11% |
-| Depth-First Search | 2 | 11% |
-| Prefix Sum | 2 | 11% |
-| Simulation | 2 | 11% |
-| Stack | 2 | 11% |
-| String | 2 | 11% |
+| Math | 8 | 38% |
+| Array | 7 | 33% |
+| Hash Table | 4 | 19% |
+| Linked List | 4 | 19% |
+| String | 3 | 14% |
+| Binary Tree | 2 | 10% |
+| Depth-First Search | 2 | 10% |
+| Prefix Sum | 2 | 10% |
+| Simulation | 2 | 10% |
+| Stack | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
+| [Array](Topics/array/) | 8 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -57,11 +57,11 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 0 |
+| [Math](Topics/math/) | 8 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
