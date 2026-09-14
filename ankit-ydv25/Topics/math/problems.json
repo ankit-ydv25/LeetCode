@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T15:08:10.368Z",
+  "updatedAt": "2026-09-14T15:17:17.004Z",
   "problems": [
     {
       "frontendId": "172",
@@ -83,6 +83,26 @@
           "path": "ankit-ydv25/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
           "sha": "a8731f7284729f8fbb5583d4c591fc2efd9aa4c0",
           "lastSyncedAt": "2026-09-13T14:52:47.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "ankit-ydv25/1486-xor-operation-in-an-array/",
+      "readmePath": "ankit-ydv25/1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1486-xor-operation-in-an-array.cpp",
+          "path": "ankit-ydv25/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
+          "sha": "e4809d904586758ca7174f43f33ac07568961e6c",
+          "lastSyncedAt": "2026-09-14T15:17:17.004Z"
         }
       ]
     },
