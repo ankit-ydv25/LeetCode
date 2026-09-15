@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "quicksort",
+    "name": "Quicksort"
+  },
+  "updatedAt": "2026-09-15T05:43:09.767Z",
+  "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "ankit-ydv25/0075-sort-colors/",
+      "readmePath": "ankit-ydv25/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0075-sort-colors.cpp",
+          "path": "ankit-ydv25/0075-sort-colors/0075-sort-colors.cpp",
+          "sha": "26b174b422fc1c1cfbaeea5d7f98e12ce7ae1e0d",
+          "lastSyncedAt": "2026-09-15T05:43:09.767Z"
+        }
+      ]
+    }
+  ]
+}
