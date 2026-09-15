@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T05:43:09.767Z",
+  "updatedAt": "2026-09-15T13:09:21.237Z",
   "problems": [
     {
       "frontendId": "48",
@@ -143,6 +143,26 @@
           "path": "ankit-ydv25/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "b24bb6d86acf2d7e50821347d47636cf875cf37c",
           "lastSyncedAt": "2026-09-11T15:05:45.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3232",
+      "title": "Find if Digit Game Can Be Won",
+      "slug": "find-if-digit-game-can-be-won",
+      "problemName": "3232-find-if-digit-game-can-be-won",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+      "folderPath": "ankit-ydv25/3232-find-if-digit-game-can-be-won/",
+      "readmePath": "ankit-ydv25/3232-find-if-digit-game-can-be-won/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3232-find-if-digit-game-can-be-won.cpp",
+          "path": "ankit-ydv25/3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
+          "sha": "7fbe64d2f6bdca6cdd5602180f66d652699011b1",
+          "lastSyncedAt": "2026-09-15T13:09:21.237Z"
         }
       ]
     },
