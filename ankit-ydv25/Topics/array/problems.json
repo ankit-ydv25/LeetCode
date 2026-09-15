@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T13:09:58.345Z",
+  "updatedAt": "2026-09-15T13:09:58.434Z",
   "problems": [
     {
       "frontendId": "48",
@@ -162,7 +162,7 @@
           "filename": "3232-find-if-digit-game-can-be-won.cpp",
           "path": "ankit-ydv25/3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
           "sha": "7fbe64d2f6bdca6cdd5602180f66d652699011b1",
-          "lastSyncedAt": "2026-09-15T13:09:58.345Z"
+          "lastSyncedAt": "2026-09-15T13:09:58.434Z"
         }
       ]
     },
