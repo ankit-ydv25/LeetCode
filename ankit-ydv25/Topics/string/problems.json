@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-14T15:48:52.320Z",
+  "updatedAt": "2026-09-15T12:58:44.189Z",
   "problems": [
     {
       "frontendId": "242",
@@ -63,6 +63,26 @@
           "path": "ankit-ydv25/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
           "sha": "1de433a3abefbb64e69f88e7a7246d787175aae7",
           "lastSyncedAt": "2026-09-14T15:48:52.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "ankit-ydv25/3110-score-of-a-string/",
+      "readmePath": "ankit-ydv25/3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3110-score-of-a-string.cpp",
+          "path": "ankit-ydv25/3110-score-of-a-string/3110-score-of-a-string.cpp",
+          "sha": "a299f51fef8e2a80979dc90dfa92f6341a7e10f9",
+          "lastSyncedAt": "2026-09-15T12:58:44.189Z"
         }
       ]
     }
