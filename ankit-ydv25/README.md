@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 18 | 6 | 0 |
+| 25 | 18 | 6 | 1 |
 
 ## Activity
 
@@ -26,18 +26,18 @@ Contains topicwise list of solved problems.
 | 2026-09-13 | 2 |
 | 2026-09-14 | 4 |
 | 2026-09-15 | 2 |
-| 2026-09-16 | 1 |
+| 2026-09-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 33% |
-| Math | 8 | 33% |
-| Linked List | 5 | 21% |
-| Hash Table | 4 | 17% |
-| String | 4 | 17% |
-| Two Pointers | 3 | 13% |
+| Array | 9 | 36% |
+| Math | 8 | 32% |
+| Hash Table | 5 | 20% |
+| Linked List | 5 | 20% |
+| String | 4 | 16% |
+| Two Pointers | 3 | 12% |
 | Binary Tree | 2 | 8% |
 | Depth-First Search | 2 | 8% |
 | Prefix Sum | 2 | 8% |
@@ -47,7 +47,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 9 |
