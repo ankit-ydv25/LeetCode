@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-14T15:48:52.320Z",
+  "updatedAt": "2026-09-16T05:17:27.037Z",
   "problems": [
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "ankit-ydv25/0041-first-missing-positive/",
+      "readmePath": "ankit-ydv25/0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0041-first-missing-positive.cpp",
+          "path": "ankit-ydv25/0041-first-missing-positive/0041-first-missing-positive.cpp",
+          "sha": "1ade19124f47071d40acefa5377143f40bfdc256",
+          "lastSyncedAt": "2026-09-16T05:17:27.037Z"
+        }
+      ]
+    },
     {
       "frontendId": "141",
       "title": "Linked List Cycle",
