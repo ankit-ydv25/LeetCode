@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-08T04:40:18.923Z",
+  "updatedAt": "2026-09-16T04:51:30.497Z",
   "problems": [
     {
       "frontendId": "24",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "43652ac2a35b52fc5359886a97a49ce954f626d2",
           "lastSyncedAt": "2026-09-08T04:40:18.923Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "ankit-ydv25/0206-reverse-linked-list/",
+      "readmePath": "ankit-ydv25/0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0206-reverse-linked-list.cpp",
+          "path": "ankit-ydv25/0206-reverse-linked-list/0206-reverse-linked-list.cpp",
+          "sha": "6c9f0cd22b781ad6f17d99fe86cd454fc73f2696",
+          "lastSyncedAt": "2026-09-16T04:51:30.497Z"
         }
       ]
     }
