@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T07:27:23.039Z",
+  "updatedAt": "2026-09-17T07:27:38.311Z",
   "problems": [
     {
       "frontendId": "41",
@@ -202,7 +202,7 @@
           "filename": "1929-concatenation-of-array.cpp",
           "path": "ankit-ydv25/1929-concatenation-of-array/1929-concatenation-of-array.cpp",
           "sha": "25445bfb19e6422f6fa7262cbcfa5bcbad392ce6",
-          "lastSyncedAt": "2026-09-17T07:27:23.039Z"
+          "lastSyncedAt": "2026-09-17T07:27:38.311Z"
         }
       ]
     },
