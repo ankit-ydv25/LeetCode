@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T14:02:18.116Z",
+  "updatedAt": "2026-09-17T07:21:23.182Z",
   "problems": [
     {
       "frontendId": "41",
@@ -183,6 +183,26 @@
           "path": "ankit-ydv25/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "b24bb6d86acf2d7e50821347d47636cf875cf37c",
           "lastSyncedAt": "2026-09-11T15:05:45.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "ankit-ydv25/2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "ankit-ydv25/2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "ankit-ydv25/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "a1dfd57bf99282ea2b5e73ee80cd872d95cbe43a",
+          "lastSyncedAt": "2026-09-17T07:21:23.182Z"
         }
       ]
     },
