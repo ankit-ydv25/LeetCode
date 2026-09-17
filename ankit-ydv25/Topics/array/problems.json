@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T07:21:23.182Z",
+  "updatedAt": "2026-09-17T07:27:23.039Z",
   "problems": [
     {
       "frontendId": "41",
@@ -183,6 +183,26 @@
           "path": "ankit-ydv25/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "b24bb6d86acf2d7e50821347d47636cf875cf37c",
           "lastSyncedAt": "2026-09-11T15:05:45.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "ankit-ydv25/1929-concatenation-of-array/",
+      "readmePath": "ankit-ydv25/1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1929-concatenation-of-array.cpp",
+          "path": "ankit-ydv25/1929-concatenation-of-array/1929-concatenation-of-array.cpp",
+          "sha": "25445bfb19e6422f6fa7262cbcfa5bcbad392ce6",
+          "lastSyncedAt": "2026-09-17T07:27:23.039Z"
         }
       ]
     },
