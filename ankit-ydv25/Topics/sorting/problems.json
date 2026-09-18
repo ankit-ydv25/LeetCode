@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-16T14:02:18.116Z",
+  "updatedAt": "2026-09-18T12:18:09.251Z",
   "problems": [
     {
       "frontendId": "75",
@@ -83,6 +83,26 @@
           "path": "ankit-ydv25/0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "964a7cb0567250d22b0446ba6ba0cb2074d2f46c",
           "lastSyncedAt": "2026-09-02T04:34:36.819Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "ankit-ydv25/3024-type-of-triangle/",
+      "readmePath": "ankit-ydv25/3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "ankit-ydv25/3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "89942b575f7602d5f491ec4aa5c29a8efad4308a",
+          "lastSyncedAt": "2026-09-18T12:18:09.251Z"
         }
       ]
     }
