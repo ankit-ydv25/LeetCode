@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T12:18:09.251Z",
+  "updatedAt": "2026-09-18T15:28:03.054Z",
   "problems": [
     {
       "frontendId": "41",
@@ -103,6 +103,26 @@
           "path": "ankit-ydv25/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "d28e055a1d2c217151898e5c895e0c1b1690e525",
           "lastSyncedAt": "2026-09-16T14:02:18.116Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "problemName": "0628-maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "folderPath": "ankit-ydv25/0628-maximum-product-of-three-numbers/",
+      "readmePath": "ankit-ydv25/0628-maximum-product-of-three-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0628-maximum-product-of-three-numbers.cpp",
+          "path": "ankit-ydv25/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
+          "sha": "6de926538277475931b2630774ccbd4642990c71",
+          "lastSyncedAt": "2026-09-18T15:28:03.054Z"
         }
       ]
     },
