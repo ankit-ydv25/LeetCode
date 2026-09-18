@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T15:02:41.162Z",
+  "updatedAt": "2026-09-18T15:02:52.945Z",
   "problems": [
     {
       "frontendId": "48",
@@ -122,7 +122,7 @@
           "filename": "0507-perfect-number.cpp",
           "path": "ankit-ydv25/0507-perfect-number/0507-perfect-number.cpp",
           "sha": "46714e68fc26382a5d6de509e929fbe8d8bd1efb",
-          "lastSyncedAt": "2026-09-18T15:02:41.162Z"
+          "lastSyncedAt": "2026-09-18T15:02:52.945Z"
         }
       ]
     },
