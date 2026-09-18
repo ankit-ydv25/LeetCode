@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T12:19:52.013Z",
+  "updatedAt": "2026-09-18T12:20:48.328Z",
   "problems": [
     {
       "frontendId": "48",
@@ -203,6 +203,26 @@
           "path": "ankit-ydv25/2469-convert-the-temperature/2469-convert-the-temperature.cpp",
           "sha": "fd142eb5654645fef0bd22796030527799b6852f",
           "lastSyncedAt": "2026-09-17T07:24:39.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2520",
+      "title": "Count the Digits That Divide a Number",
+      "slug": "count-the-digits-that-divide-a-number",
+      "problemName": "2520-count-the-digits-that-divide-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+      "folderPath": "ankit-ydv25/2520-count-the-digits-that-divide-a-number/",
+      "readmePath": "ankit-ydv25/2520-count-the-digits-that-divide-a-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2520-count-the-digits-that-divide-a-number.cpp",
+          "path": "ankit-ydv25/2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.cpp",
+          "sha": "0f44887bd7279ff830ae054730e616d23511fbd1",
+          "lastSyncedAt": "2026-09-18T12:20:48.328Z"
         }
       ]
     },
