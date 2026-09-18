@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-02T04:32:33.844Z",
-  "problems": []
+  "updatedAt": "2026-09-18T12:19:52.013Z",
+  "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "ankit-ydv25/0070-climbing-stairs/",
+      "readmePath": "ankit-ydv25/0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0070-climbing-stairs.cpp",
+          "path": "ankit-ydv25/0070-climbing-stairs/0070-climbing-stairs.cpp",
+          "sha": "16b677f37dd64820d25c4b13048e20c8f80cfb43",
+          "lastSyncedAt": "2026-09-18T12:19:52.013Z"
+        }
+      ]
+    }
+  ]
 }
