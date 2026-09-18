@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T12:19:13.404Z",
+  "updatedAt": "2026-09-18T15:44:20.259Z",
   "problems": [
     {
       "frontendId": "171",
@@ -63,6 +63,26 @@
           "path": "ankit-ydv25/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "4de0433ceda84608715c21e04190b289c4acac04",
           "lastSyncedAt": "2026-09-02T04:46:19.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "ankit-ydv25/0709-to-lower-case/",
+      "readmePath": "ankit-ydv25/0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0709-to-lower-case.cpp",
+          "path": "ankit-ydv25/0709-to-lower-case/0709-to-lower-case.cpp",
+          "sha": "92d6a356b45558e4db1370645518bda65c91f7d7",
+          "lastSyncedAt": "2026-09-18T15:44:20.259Z"
         }
       ]
     },
