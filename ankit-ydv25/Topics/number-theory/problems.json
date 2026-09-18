@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-10T12:46:13.246Z",
+  "updatedAt": "2026-09-18T14:53:55.135Z",
   "problems": [
     {
       "frontendId": "258",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
           "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
           "lastSyncedAt": "2026-09-10T12:46:13.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "ankit-ydv25/2413-smallest-even-multiple/",
+      "readmePath": "ankit-ydv25/2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2413-smallest-even-multiple.cpp",
+          "path": "ankit-ydv25/2413-smallest-even-multiple/2413-smallest-even-multiple.cpp",
+          "sha": "1d50c1b080d4ccbf3bf4ddc0a70f07ea7958085c",
+          "lastSyncedAt": "2026-09-18T14:53:55.135Z"
         }
       ]
     }
