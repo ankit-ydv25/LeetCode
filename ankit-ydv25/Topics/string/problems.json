@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-17T07:21:23.182Z",
+  "updatedAt": "2026-09-18T12:19:06.646Z",
   "problems": [
+    {
+      "frontendId": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "problemName": "0171-excel-sheet-column-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+      "folderPath": "ankit-ydv25/0171-excel-sheet-column-number/",
+      "readmePath": "ankit-ydv25/0171-excel-sheet-column-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0171-excel-sheet-column-number.cpp",
+          "path": "ankit-ydv25/0171-excel-sheet-column-number/0171-excel-sheet-column-number.cpp",
+          "sha": "5be1792f82d2e6b7e1ad58494414b5142bc68d05",
+          "lastSyncedAt": "2026-09-18T12:19:06.646Z"
+        }
+      ]
+    },
     {
       "frontendId": "242",
       "title": "Valid Anagram",
