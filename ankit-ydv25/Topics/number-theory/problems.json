@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-18T14:53:55.135Z",
+  "updatedAt": "2026-09-18T14:56:24.687Z",
   "problems": [
     {
       "frontendId": "258",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
           "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
           "lastSyncedAt": "2026-09-10T12:46:13.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1952",
+      "title": "Three Divisors",
+      "slug": "three-divisors",
+      "problemName": "1952-three-divisors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
+      "folderPath": "ankit-ydv25/1952-three-divisors/",
+      "readmePath": "ankit-ydv25/1952-three-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1952-three-divisors.cpp",
+          "path": "ankit-ydv25/1952-three-divisors/1952-three-divisors.cpp",
+          "sha": "264cb79e4c8e89fda7ee1e0b52a73817bea237f3",
+          "lastSyncedAt": "2026-09-18T14:56:24.687Z"
         }
       ]
     },
