@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T07:24:39.311Z",
+  "updatedAt": "2026-09-18T12:18:04.382Z",
   "problems": [
     {
       "frontendId": "48",
@@ -183,6 +183,26 @@
           "path": "ankit-ydv25/2652-sum-multiples/2652-sum-multiples.cpp",
           "sha": "dc14004198f4fceed06f95b4e1deb80afe38beaa",
           "lastSyncedAt": "2026-09-10T12:37:45.220Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "ankit-ydv25/3024-type-of-triangle/",
+      "readmePath": "ankit-ydv25/3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "ankit-ydv25/3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "89942b575f7602d5f491ec4aa5c29a8efad4308a",
+          "lastSyncedAt": "2026-09-18T12:18:04.382Z"
         }
       ]
     },
