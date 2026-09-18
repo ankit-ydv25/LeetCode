@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T12:18:09.251Z",
+  "updatedAt": "2026-09-18T12:19:06.646Z",
   "problems": [
     {
       "frontendId": "48",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0048-rotate-image/0048-rotate-image.cpp",
           "sha": "97f48fac79a50ba55d5f2b687b609117a271b14f",
           "lastSyncedAt": "2026-09-14T15:39:20.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "problemName": "0171-excel-sheet-column-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+      "folderPath": "ankit-ydv25/0171-excel-sheet-column-number/",
+      "readmePath": "ankit-ydv25/0171-excel-sheet-column-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0171-excel-sheet-column-number.cpp",
+          "path": "ankit-ydv25/0171-excel-sheet-column-number/0171-excel-sheet-column-number.cpp",
+          "sha": "5be1792f82d2e6b7e1ad58494414b5142bc68d05",
+          "lastSyncedAt": "2026-09-18T12:19:06.646Z"
         }
       ]
     },
