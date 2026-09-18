@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 18 | 6 | 1 |
+| 36 | 28 | 7 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 12 |
+| 9 days | 9 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,28 +26,30 @@ Contains topicwise list of solved problems.
 | 2026-09-13 | 2 |
 | 2026-09-14 | 4 |
 | 2026-09-15 | 2 |
-| 2026-09-16 | 2 |
+| 2026-09-16 | 3 |
+| 2026-09-17 | 3 |
+| 2026-09-18 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 36% |
-| Math | 8 | 32% |
-| Hash Table | 5 | 20% |
-| Linked List | 5 | 20% |
-| String | 4 | 16% |
-| Two Pointers | 3 | 12% |
-| Binary Tree | 2 | 8% |
-| Depth-First Search | 2 | 8% |
-| Prefix Sum | 2 | 8% |
-| Recursion | 2 | 8% |
+| Math | 16 | 44% |
+| Array | 13 | 36% |
+| String | 6 | 17% |
+| Hash Table | 5 | 14% |
+| Linked List | 5 | 14% |
+| Simulation | 4 | 11% |
+| Sorting | 4 | 11% |
+| Number Theory | 3 | 8% |
+| Two Pointers | 3 | 8% |
+| Binary Tree | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -56,24 +58,32 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 17 |
 | [Matrix](Topics/matrix/) | 1 |
-| [Number Theory](Topics/number-theory/) | 1 |
+| [Memoization](Topics/memoization/) | 1 |
+| [Number Theory](Topics/number-theory/) | 3 |
+| [Polygons](Topics/polygons/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
-| [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sieve Theory](Topics/sieve-theory/) | 1 |
+| [Simulation](Topics/simulation/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 6 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
