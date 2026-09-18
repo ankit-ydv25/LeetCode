@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T12:18:04.382Z",
+  "updatedAt": "2026-09-18T12:18:09.251Z",
   "problems": [
     {
       "frontendId": "48",
@@ -202,7 +202,7 @@
           "filename": "3024-type-of-triangle.cpp",
           "path": "ankit-ydv25/3024-type-of-triangle/3024-type-of-triangle.cpp",
           "sha": "89942b575f7602d5f491ec4aa5c29a8efad4308a",
-          "lastSyncedAt": "2026-09-18T12:18:04.382Z"
+          "lastSyncedAt": "2026-09-18T12:18:09.251Z"
         }
       ]
     },
