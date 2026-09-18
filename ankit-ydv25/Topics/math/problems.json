@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T12:20:48.328Z",
+  "updatedAt": "2026-09-18T14:53:55.135Z",
   "problems": [
     {
       "frontendId": "48",
@@ -183,6 +183,26 @@
           "path": "ankit-ydv25/1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "56543c2fdf3a9441df0d008c904a8df1574e0d04",
           "lastSyncedAt": "2026-09-10T12:56:53.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "ankit-ydv25/2413-smallest-even-multiple/",
+      "readmePath": "ankit-ydv25/2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2413-smallest-even-multiple.cpp",
+          "path": "ankit-ydv25/2413-smallest-even-multiple/2413-smallest-even-multiple.cpp",
+          "sha": "1d50c1b080d4ccbf3bf4ddc0a70f07ea7958085c",
+          "lastSyncedAt": "2026-09-18T14:53:55.135Z"
         }
       ]
     },
