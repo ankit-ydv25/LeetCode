@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T12:19:07.672Z",
+  "updatedAt": "2026-09-18T12:19:13.404Z",
   "problems": [
     {
       "frontendId": "171",
@@ -22,7 +22,7 @@
           "filename": "0171-excel-sheet-column-number.cpp",
           "path": "ankit-ydv25/0171-excel-sheet-column-number/0171-excel-sheet-column-number.cpp",
           "sha": "5be1792f82d2e6b7e1ad58494414b5142bc68d05",
-          "lastSyncedAt": "2026-09-18T12:19:07.672Z"
+          "lastSyncedAt": "2026-09-18T12:19:13.404Z"
         }
       ]
     },
