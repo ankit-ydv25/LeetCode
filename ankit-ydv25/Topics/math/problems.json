@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-23T09:54:20.897Z",
+  "updatedAt": "2026-09-24T05:19:47.602Z",
   "problems": [
     {
       "frontendId": "48",
@@ -403,6 +403,26 @@
           "path": "ankit-ydv25/3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
           "sha": "7fbe64d2f6bdca6cdd5602180f66d652699011b1",
           "lastSyncedAt": "2026-09-15T13:09:58.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "ankit-ydv25/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "ankit-ydv25/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "path": "ankit-ydv25/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "sha": "0691ca2d873788ba2bb877be7bd5544f3b88b160",
+          "lastSyncedAt": "2026-09-24T05:19:47.602Z"
         }
       ]
     }
