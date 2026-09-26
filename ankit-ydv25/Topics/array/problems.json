@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:51:16.369Z",
+  "updatedAt": "2026-09-26T14:51:25.136Z",
   "problems": [
     {
       "frontendId": "41",
@@ -162,7 +162,7 @@
           "filename": "1470-shuffle-the-array.cpp",
           "path": "ankit-ydv25/1470-shuffle-the-array/1470-shuffle-the-array.cpp",
           "sha": "3dd1c3b2863dcfc10488cc6bdb1986a1d2fa66b2",
-          "lastSyncedAt": "2026-09-26T14:51:16.369Z"
+          "lastSyncedAt": "2026-09-26T14:51:25.136Z"
         }
       ]
     },
