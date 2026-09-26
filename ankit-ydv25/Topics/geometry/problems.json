@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-14T15:08:10.368Z",
+  "updatedAt": "2026-09-26T13:48:12.954Z",
   "problems": [
     {
       "frontendId": "836",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "180386046879bfea27f4ccf3c2d7675b6f0d4caa",
           "lastSyncedAt": "2026-09-14T15:08:10.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2481",
+      "title": "Minimum Cuts to Divide a Circle",
+      "slug": "minimum-cuts-to-divide-a-circle",
+      "problemName": "2481-minimum-cuts-to-divide-a-circle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+      "folderPath": "ankit-ydv25/2481-minimum-cuts-to-divide-a-circle/",
+      "readmePath": "ankit-ydv25/2481-minimum-cuts-to-divide-a-circle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2481-minimum-cuts-to-divide-a-circle.cpp",
+          "path": "ankit-ydv25/2481-minimum-cuts-to-divide-a-circle/2481-minimum-cuts-to-divide-a-circle.cpp",
+          "sha": "f754e35a09fe84742b285352a26fc9e205c883d6",
+          "lastSyncedAt": "2026-09-26T13:48:12.954Z"
         }
       ]
     }
