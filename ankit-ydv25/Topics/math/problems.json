@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T05:19:47.602Z",
+  "updatedAt": "2026-09-26T13:48:12.954Z",
   "problems": [
     {
       "frontendId": "48",
@@ -303,6 +303,26 @@
           "path": "ankit-ydv25/2469-convert-the-temperature/2469-convert-the-temperature.cpp",
           "sha": "fd142eb5654645fef0bd22796030527799b6852f",
           "lastSyncedAt": "2026-09-17T07:24:39.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2481",
+      "title": "Minimum Cuts to Divide a Circle",
+      "slug": "minimum-cuts-to-divide-a-circle",
+      "problemName": "2481-minimum-cuts-to-divide-a-circle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+      "folderPath": "ankit-ydv25/2481-minimum-cuts-to-divide-a-circle/",
+      "readmePath": "ankit-ydv25/2481-minimum-cuts-to-divide-a-circle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2481-minimum-cuts-to-divide-a-circle.cpp",
+          "path": "ankit-ydv25/2481-minimum-cuts-to-divide-a-circle/2481-minimum-cuts-to-divide-a-circle.cpp",
+          "sha": "f754e35a09fe84742b285352a26fc9e205c883d6",
+          "lastSyncedAt": "2026-09-26T13:48:12.954Z"
         }
       ]
     },
