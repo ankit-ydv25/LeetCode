@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-21T12:19:35.269Z",
+  "updatedAt": "2026-09-27T04:54:06.237Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "ankit-ydv25/0069-sqrtx/",
+      "readmePath": "ankit-ydv25/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "ankit-ydv25/0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "d4ef6dd6e8d43ad6775b462a27785c8d72344529",
+          "lastSyncedAt": "2026-09-27T04:54:06.237Z"
+        }
+      ]
+    },
     {
       "frontendId": "278",
       "title": "First Bad Version",
