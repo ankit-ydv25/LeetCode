@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-27T04:54:06.237Z",
+  "updatedAt": "2026-09-28T15:31:31.627Z",
   "problems": [
     {
       "frontendId": "48",
@@ -203,6 +203,26 @@
           "path": "ankit-ydv25/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
           "sha": "a8731f7284729f8fbb5583d4c591fc2efd9aa4c0",
           "lastSyncedAt": "2026-09-13T14:52:47.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "slug": "find-numbers-with-even-number-of-digits",
+      "problemName": "1295-find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+      "folderPath": "ankit-ydv25/1295-find-numbers-with-even-number-of-digits/",
+      "readmePath": "ankit-ydv25/1295-find-numbers-with-even-number-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1295-find-numbers-with-even-number-of-digits.cpp",
+          "path": "ankit-ydv25/1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
+          "sha": "fadc2d59ea2074382d41ff12a8878d3433b52683",
+          "lastSyncedAt": "2026-09-28T15:31:31.627Z"
         }
       ]
     },
