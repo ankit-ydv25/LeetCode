@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-15T05:43:09.767Z",
+  "updatedAt": "2026-09-29T04:30:11.775Z",
   "problems": [
     {
       "frontendId": "19",
@@ -83,6 +83,26 @@
           "path": "ankit-ydv25/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "72d1b147d9450c573fbbfed07b74174d698e17aa",
           "lastSyncedAt": "2026-09-12T04:32:52.114Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "ankit-ydv25/2149-rearrange-array-elements-by-sign/",
+      "readmePath": "ankit-ydv25/2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2149-rearrange-array-elements-by-sign.cpp",
+          "path": "ankit-ydv25/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
+          "sha": "298e738fb7aba1e8e1fb6825e56c50708092ced0",
+          "lastSyncedAt": "2026-09-29T04:30:11.775Z"
         }
       ]
     }
