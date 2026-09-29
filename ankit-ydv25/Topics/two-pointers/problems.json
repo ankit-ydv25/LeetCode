@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-29T04:30:11.775Z",
+  "updatedAt": "2026-09-29T04:30:15.887Z",
   "problems": [
     {
       "frontendId": "19",
@@ -102,7 +102,7 @@
           "filename": "2149-rearrange-array-elements-by-sign.cpp",
           "path": "ankit-ydv25/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "298e738fb7aba1e8e1fb6825e56c50708092ced0",
-          "lastSyncedAt": "2026-09-29T04:30:11.775Z"
+          "lastSyncedAt": "2026-09-29T04:30:15.887Z"
         }
       ]
     }
