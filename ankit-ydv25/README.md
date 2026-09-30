@@ -5,20 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 37 | 8 | 1 |
+| 50 | 39 | 9 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 15 days | 21 |
+| 5 days | 15 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-12 | 1 |
-| 2026-09-13 | 2 |
-| 2026-09-14 | 4 |
-| 2026-09-15 | 2 |
 | 2026-09-16 | 3 |
 | 2026-09-17 | 3 |
 | 2026-09-18 | 8 |
@@ -29,31 +25,35 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-26 | 3 |
+| 2026-09-27 | 1 |
+| 2026-09-28 | 1 |
+| 2026-09-29 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 21 | 46% |
-| Array | 17 | 37% |
-| String | 8 | 17% |
-| Hash Table | 5 | 11% |
-| Linked List | 5 | 11% |
-| Simulation | 5 | 11% |
-| Number Theory | 4 | 9% |
-| Sorting | 4 | 9% |
-| Two Pointers | 3 | 7% |
-| Binary Tree | 2 | 4% |
+| Math | 24 | 48% |
+| Array | 20 | 40% |
+| String | 8 | 16% |
+| Simulation | 6 | 12% |
+| Hash Table | 5 | 10% |
+| Linked List | 5 | 10% |
+| Number Theory | 4 | 8% |
+| Sorting | 4 | 8% |
+| Two Pointers | 4 | 8% |
+| Binary Search | 2 | 4% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -71,9 +71,10 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 23 |
+| [Math](Topics/math/) | 26 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
+| [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 4 |
 | [Polygons](Topics/polygons/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
@@ -83,10 +84,10 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 5 |
+| [Simulation](Topics/simulation/) | 6 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
