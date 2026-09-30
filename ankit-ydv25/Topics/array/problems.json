@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T04:30:15.887Z",
+  "updatedAt": "2026-09-30T05:37:30.218Z",
   "problems": [
     {
       "frontendId": "41",
@@ -223,6 +223,26 @@
           "path": "ankit-ydv25/1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "56543c2fdf3a9441df0d008c904a8df1574e0d04",
           "lastSyncedAt": "2026-09-10T12:56:53.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1835",
+      "title": "Find XOR Sum of All Pairs Bitwise AND",
+      "slug": "find-xor-sum-of-all-pairs-bitwise-and",
+      "problemName": "1835-find-xor-sum-of-all-pairs-bitwise-and",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/",
+      "folderPath": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/",
+      "readmePath": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1835-find-xor-sum-of-all-pairs-bitwise-and.cpp",
+          "path": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/1835-find-xor-sum-of-all-pairs-bitwise-and.cpp",
+          "sha": "9c244da60b377b838c5318f602e4a1cf55d431bf",
+          "lastSyncedAt": "2026-09-30T05:37:30.218Z"
         }
       ]
     },
