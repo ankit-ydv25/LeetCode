@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-14T15:17:17.004Z",
+  "updatedAt": "2026-09-30T05:37:30.218Z",
   "problems": [
     {
       "frontendId": "1486",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
           "sha": "e4809d904586758ca7174f43f33ac07568961e6c",
           "lastSyncedAt": "2026-09-14T15:17:17.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1835",
+      "title": "Find XOR Sum of All Pairs Bitwise AND",
+      "slug": "find-xor-sum-of-all-pairs-bitwise-and",
+      "problemName": "1835-find-xor-sum-of-all-pairs-bitwise-and",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/",
+      "folderPath": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/",
+      "readmePath": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1835-find-xor-sum-of-all-pairs-bitwise-and.cpp",
+          "path": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/1835-find-xor-sum-of-all-pairs-bitwise-and.cpp",
+          "sha": "9c244da60b377b838c5318f602e4a1cf55d431bf",
+          "lastSyncedAt": "2026-09-30T05:37:30.218Z"
         }
       ]
     }
