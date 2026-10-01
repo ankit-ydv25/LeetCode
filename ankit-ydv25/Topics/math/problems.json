@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-01T06:14:47.620Z",
+  "updatedAt": "2026-10-01T06:30:44.122Z",
   "problems": [
     {
       "frontendId": "48",
@@ -463,6 +463,26 @@
           "path": "ankit-ydv25/2652-sum-multiples/2652-sum-multiples.cpp",
           "sha": "dc14004198f4fceed06f95b4e1deb80afe38beaa",
           "lastSyncedAt": "2026-09-10T12:37:45.220Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2843",
+      "title": "  Count Symmetric Integers",
+      "slug": "count-symmetric-integers",
+      "problemName": "2843-count-symmetric-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-symmetric-integers/",
+      "folderPath": "ankit-ydv25/2843-count-symmetric-integers/",
+      "readmePath": "ankit-ydv25/2843-count-symmetric-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2843-count-symmetric-integers.cpp",
+          "path": "ankit-ydv25/2843-count-symmetric-integers/2843-count-symmetric-integers.cpp",
+          "sha": "1271891e164b0895f277aace917b739048dba207",
+          "lastSyncedAt": "2026-10-01T06:30:44.122Z"
         }
       ]
     },
