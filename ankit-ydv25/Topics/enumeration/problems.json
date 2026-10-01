@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-18T14:56:24.687Z",
+  "updatedAt": "2026-10-01T06:30:44.122Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -23,6 +23,26 @@
           "path": "ankit-ydv25/1952-three-divisors/1952-three-divisors.cpp",
           "sha": "264cb79e4c8e89fda7ee1e0b52a73817bea237f3",
           "lastSyncedAt": "2026-09-18T14:56:24.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2843",
+      "title": "  Count Symmetric Integers",
+      "slug": "count-symmetric-integers",
+      "problemName": "2843-count-symmetric-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-symmetric-integers/",
+      "folderPath": "ankit-ydv25/2843-count-symmetric-integers/",
+      "readmePath": "ankit-ydv25/2843-count-symmetric-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2843-count-symmetric-integers.cpp",
+          "path": "ankit-ydv25/2843-count-symmetric-integers/2843-count-symmetric-integers.cpp",
+          "sha": "1271891e164b0895f277aace917b739048dba207",
+          "lastSyncedAt": "2026-10-01T06:30:44.122Z"
         }
       ]
     }
