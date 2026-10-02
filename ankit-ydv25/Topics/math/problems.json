@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T06:59:35.245Z",
+  "updatedAt": "2026-10-02T14:55:43.489Z",
   "problems": [
     {
       "frontendId": "13",
@@ -183,6 +183,26 @@
           "path": "ankit-ydv25/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "6de926538277475931b2630774ccbd4642990c71",
           "lastSyncedAt": "2026-09-18T15:28:05.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "728",
+      "title": "Self Dividing Numbers",
+      "slug": "self-dividing-numbers",
+      "problemName": "0728-self-dividing-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+      "folderPath": "ankit-ydv25/0728-self-dividing-numbers/",
+      "readmePath": "ankit-ydv25/0728-self-dividing-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0728-self-dividing-numbers.cpp",
+          "path": "ankit-ydv25/0728-self-dividing-numbers/0728-self-dividing-numbers.cpp",
+          "sha": "b113de601cc51cdc0abc9c7d80856a4ff8ef88ca",
+          "lastSyncedAt": "2026-10-02T14:55:43.489Z"
         }
       ]
     },
