@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-02T06:58:54.021Z",
+  "updatedAt": "2026-10-02T06:59:35.245Z",
   "problems": [
     {
       "frontendId": "13",
@@ -22,7 +22,7 @@
           "filename": "0013-roman-to-integer.cpp",
           "path": "ankit-ydv25/0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "c1a5566a029115422ab61838c5b2fb2754b1787a",
-          "lastSyncedAt": "2026-10-02T06:58:54.021Z"
+          "lastSyncedAt": "2026-10-02T06:59:35.245Z"
         }
       ]
     },
