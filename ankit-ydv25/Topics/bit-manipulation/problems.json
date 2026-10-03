@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-03T05:48:24.723Z",
+  "updatedAt": "2026-10-03T05:58:37.348Z",
   "problems": [
     {
       "frontendId": "1486",
@@ -43,6 +43,26 @@
           "path": "ankit-ydv25/1835-find-xor-sum-of-all-pairs-bitwise-and/1835-find-xor-sum-of-all-pairs-bitwise-and.cpp",
           "sha": "9c244da60b377b838c5318f602e4a1cf55d431bf",
           "lastSyncedAt": "2026-09-30T05:37:30.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2425",
+      "title": "Bitwise XOR of All Pairings",
+      "slug": "bitwise-xor-of-all-pairings",
+      "problemName": "2425-bitwise-xor-of-all-pairings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
+      "folderPath": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/",
+      "readmePath": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2425-bitwise-xor-of-all-pairings.cpp",
+          "path": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
+          "sha": "d02f5e0690a7300ed5ffbf93273eb5670ef4f4a9",
+          "lastSyncedAt": "2026-10-03T05:58:37.348Z"
         }
       ]
     },
