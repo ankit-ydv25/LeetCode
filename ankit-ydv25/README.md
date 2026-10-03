@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 44 | 9 | 2 |
+| 57 | 45 | 10 | 2 |
 
 ## Activity
 
@@ -28,32 +28,33 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 1 |
 | 2026-10-01 | 2 |
 | 2026-10-02 | 2 |
-| 2026-10-03 | 1 |
+| 2026-10-03 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 29 | 53% |
-| Array | 20 | 36% |
+| Math | 29 | 51% |
+| Array | 22 | 39% |
 | String | 9 | 16% |
-| Simulation | 7 | 13% |
+| Simulation | 7 | 12% |
 | Hash Table | 6 | 11% |
 | Linked List | 5 | 9% |
+| Bit Manipulation | 4 | 7% |
 | Number Theory | 4 | 7% |
 | Sorting | 4 | 7% |
 | Two Pointers | 4 | 7% |
-| Binary Search | 2 | 4% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Brainteaser](Topics/brainteaser/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
