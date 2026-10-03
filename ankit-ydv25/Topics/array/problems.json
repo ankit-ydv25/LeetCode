@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T05:37:30.218Z",
+  "updatedAt": "2026-10-03T05:48:24.723Z",
   "problems": [
     {
       "frontendId": "41",
@@ -343,6 +343,26 @@
           "path": "ankit-ydv25/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "298e738fb7aba1e8e1fb6825e56c50708092ced0",
           "lastSyncedAt": "2026-09-29T04:30:15.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2980",
+      "title": "Check if Bitwise OR Has Trailing Zeros",
+      "slug": "check-if-bitwise-or-has-trailing-zeros",
+      "problemName": "2980-check-if-bitwise-or-has-trailing-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/",
+      "folderPath": "ankit-ydv25/2980-check-if-bitwise-or-has-trailing-zeros/",
+      "readmePath": "ankit-ydv25/2980-check-if-bitwise-or-has-trailing-zeros/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2980-check-if-bitwise-or-has-trailing-zeros.cpp",
+          "path": "ankit-ydv25/2980-check-if-bitwise-or-has-trailing-zeros/2980-check-if-bitwise-or-has-trailing-zeros.cpp",
+          "sha": "3af1850cf8aff49b4dfc8565d0f4635f57acbdee",
+          "lastSyncedAt": "2026-10-03T05:48:24.723Z"
         }
       ]
     },
