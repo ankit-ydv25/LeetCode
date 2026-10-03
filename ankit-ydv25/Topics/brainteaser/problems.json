@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "brainteaser",
+    "name": "Brainteaser"
+  },
+  "updatedAt": "2026-10-03T05:58:37.348Z",
+  "problems": [
+    {
+      "frontendId": "2425",
+      "title": "Bitwise XOR of All Pairings",
+      "slug": "bitwise-xor-of-all-pairings",
+      "problemName": "2425-bitwise-xor-of-all-pairings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
+      "folderPath": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/",
+      "readmePath": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2425-bitwise-xor-of-all-pairings.cpp",
+          "path": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
+          "sha": "d02f5e0690a7300ed5ffbf93273eb5670ef4f4a9",
+          "lastSyncedAt": "2026-10-03T05:58:37.348Z"
+        }
+      ]
+    }
+  ]
+}
