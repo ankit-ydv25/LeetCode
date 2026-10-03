@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T14:55:43.489Z",
+  "updatedAt": "2026-10-03T05:38:29.644Z",
   "problems": [
     {
       "frontendId": "13",
@@ -283,6 +283,26 @@
           "path": "ankit-ydv25/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
           "sha": "e4809d904586758ca7174f43f33ac07568961e6c",
           "lastSyncedAt": "2026-09-14T15:17:17.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "problemName": "1523-count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+      "folderPath": "ankit-ydv25/1523-count-odd-numbers-in-an-interval-range/",
+      "readmePath": "ankit-ydv25/1523-count-odd-numbers-in-an-interval-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1523-count-odd-numbers-in-an-interval-range.cpp",
+          "path": "ankit-ydv25/1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
+          "sha": "945f22c533778934624bfd2bb364f056eef79f59",
+          "lastSyncedAt": "2026-10-03T05:38:29.644Z"
         }
       ]
     },
