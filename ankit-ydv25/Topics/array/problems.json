@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T05:48:24.723Z",
+  "updatedAt": "2026-10-03T05:58:37.348Z",
   "problems": [
     {
       "frontendId": "41",
@@ -343,6 +343,26 @@
           "path": "ankit-ydv25/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "298e738fb7aba1e8e1fb6825e56c50708092ced0",
           "lastSyncedAt": "2026-09-29T04:30:15.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2425",
+      "title": "Bitwise XOR of All Pairings",
+      "slug": "bitwise-xor-of-all-pairings",
+      "problemName": "2425-bitwise-xor-of-all-pairings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
+      "folderPath": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/",
+      "readmePath": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2425-bitwise-xor-of-all-pairings.cpp",
+          "path": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
+          "sha": "d02f5e0690a7300ed5ffbf93273eb5670ef4f4a9",
+          "lastSyncedAt": "2026-10-03T05:58:37.348Z"
         }
       ]
     },
