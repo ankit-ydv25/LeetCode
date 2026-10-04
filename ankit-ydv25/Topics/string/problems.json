@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T06:59:35.245Z",
+  "updatedAt": "2026-10-04T04:23:33.042Z",
   "problems": [
     {
       "frontendId": "13",
@@ -143,6 +143,26 @@
           "path": "ankit-ydv25/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
           "sha": "a1dfd57bf99282ea2b5e73ee80cd872d95cbe43a",
           "lastSyncedAt": "2026-09-17T07:21:23.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2710",
+      "title": "Remove Trailing Zeros From a String",
+      "slug": "remove-trailing-zeros-from-a-string",
+      "problemName": "2710-remove-trailing-zeros-from-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-trailing-zeros-from-a-string/",
+      "folderPath": "ankit-ydv25/2710-remove-trailing-zeros-from-a-string/",
+      "readmePath": "ankit-ydv25/2710-remove-trailing-zeros-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2710-remove-trailing-zeros-from-a-string.cpp",
+          "path": "ankit-ydv25/2710-remove-trailing-zeros-from-a-string/2710-remove-trailing-zeros-from-a-string.cpp",
+          "sha": "c612525fb5e45d3c55eb5791d6e46e526f9ec9b1",
+          "lastSyncedAt": "2026-10-04T04:23:33.042Z"
         }
       ]
     },
