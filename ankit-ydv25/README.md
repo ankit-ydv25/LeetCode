@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 57 | 45 | 10 | 2 |
+| 59 | 47 | 10 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 15 days | 28 |
+| 10 days | 15 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-19 | 1 |
-| 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
@@ -29,17 +27,19 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 2 |
 | 2026-10-02 | 2 |
 | 2026-10-03 | 3 |
+| 2026-10-04 | 1 |
+| 2026-10-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 29 | 51% |
-| Array | 22 | 39% |
-| String | 9 | 16% |
-| Simulation | 7 | 12% |
-| Hash Table | 6 | 11% |
-| Linked List | 5 | 9% |
+| Math | 30 | 51% |
+| Array | 22 | 37% |
+| String | 11 | 19% |
+| Simulation | 8 | 14% |
+| Hash Table | 6 | 10% |
+| Linked List | 5 | 8% |
 | Bit Manipulation | 4 | 7% |
 | Number Theory | 4 | 7% |
 | Sorting | 4 | 7% |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 31 |
+| [Math](Topics/math/) | 32 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -85,10 +85,10 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 7 |
+| [Simulation](Topics/simulation/) | 8 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
