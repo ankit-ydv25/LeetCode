@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-03T05:38:41.301Z",
+  "updatedAt": "2026-10-05T13:23:22.082Z",
   "problems": [
     {
       "frontendId": "13",
@@ -143,6 +143,26 @@
           "path": "ankit-ydv25/0258-add-digits/0258-add-digits.cpp",
           "sha": "a118594862e64e2a9a8c7bccd26bea53ebf18de8",
           "lastSyncedAt": "2026-09-10T12:46:13.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "ankit-ydv25/0412-fizz-buzz/",
+      "readmePath": "ankit-ydv25/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "ankit-ydv25/0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "8bf308a683db786d1b75e4874ed2e77d117b93d4",
+          "lastSyncedAt": "2026-10-05T13:23:22.082Z"
         }
       ]
     },
