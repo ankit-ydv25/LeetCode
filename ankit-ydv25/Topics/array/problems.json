@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T05:58:37.348Z",
+  "updatedAt": "2026-10-06T13:05:50.857Z",
   "problems": [
     {
       "frontendId": "41",
@@ -143,6 +143,26 @@
           "path": "ankit-ydv25/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
           "sha": "a8731f7284729f8fbb5583d4c591fc2efd9aa4c0",
           "lastSyncedAt": "2026-09-13T14:52:47.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "problemName": "1232-check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+      "folderPath": "ankit-ydv25/1232-check-if-it-is-a-straight-line/",
+      "readmePath": "ankit-ydv25/1232-check-if-it-is-a-straight-line/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1232-check-if-it-is-a-straight-line.cpp",
+          "path": "ankit-ydv25/1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
+          "sha": "35648d87cb0929a7f6b4753827889596414844e1",
+          "lastSyncedAt": "2026-10-06T13:05:50.857Z"
         }
       ]
     },
