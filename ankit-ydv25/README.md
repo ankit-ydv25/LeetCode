@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 47 | 10 | 2 |
+| 60 | 48 | 10 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 15 days | 30 |
+| 11 days | 15 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-10-03 | 3 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 30 | 51% |
-| Array | 22 | 37% |
-| String | 11 | 19% |
-| Simulation | 8 | 14% |
+| Math | 31 | 52% |
+| Array | 23 | 38% |
+| String | 11 | 18% |
+| Simulation | 8 | 13% |
 | Hash Table | 6 | 10% |
 | Linked List | 5 | 8% |
 | Bit Manipulation | 4 | 7% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Geometry](Topics/geometry/) | 2 |
+| [Geometry](Topics/geometry/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Hash Table](Topics/hash-table/) | 6 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 32 |
+| [Math](Topics/math/) | 33 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
