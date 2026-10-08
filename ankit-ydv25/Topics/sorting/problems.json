@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-18T15:28:03.054Z",
+  "updatedAt": "2026-10-08T04:41:03.494Z",
   "problems": [
     {
       "frontendId": "75",
@@ -103,6 +103,26 @@
           "path": "ankit-ydv25/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "6de926538277475931b2630774ccbd4642990c71",
           "lastSyncedAt": "2026-09-18T15:28:03.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "problemName": "0922-sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+      "folderPath": "ankit-ydv25/0922-sort-array-by-parity-ii/",
+      "readmePath": "ankit-ydv25/0922-sort-array-by-parity-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0922-sort-array-by-parity-ii.cpp",
+          "path": "ankit-ydv25/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.cpp",
+          "sha": "fafe356b641ad79745892d53f58934c357060c61",
+          "lastSyncedAt": "2026-10-08T04:41:03.494Z"
         }
       ]
     },
