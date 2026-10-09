@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-10-08T04:41:03.494Z",
+  "updatedAt": "2026-10-09T05:10:31.301Z",
   "problems": [
     {
       "frontendId": "19",
@@ -83,6 +84,26 @@
           "path": "ankit-ydv25/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "72d1b147d9450c573fbbfed07b74174d698e17aa",
           "lastSyncedAt": "2026-09-12T04:32:52.114Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "ankit-ydv25/0905-sort-array-by-parity/",
+      "readmePath": "ankit-ydv25/0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0905-sort-array-by-parity.cpp",
+          "path": "ankit-ydv25/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
+          "sha": "0e15bcea8e49a7ee6d386d7e1a214d5b5824e531",
+          "lastSyncedAt": "2026-10-09T05:10:31.301Z"
         }
       ]
     },
