@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T05:10:31.301Z",
+  "updatedAt": "2026-10-10T10:11:18.922Z",
   "problems": [
     {
       "frontendId": "41",
@@ -404,6 +404,26 @@
           "path": "ankit-ydv25/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "298e738fb7aba1e8e1fb6825e56c50708092ced0",
           "lastSyncedAt": "2026-09-29T04:30:15.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "ankit-ydv25/2161-partition-array-according-to-given-pivot/",
+      "readmePath": "ankit-ydv25/2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2161-partition-array-according-to-given-pivot.cpp",
+          "path": "ankit-ydv25/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
+          "sha": "c57a2a72b06beedd7df309ac72914c58d2ce7e17",
+          "lastSyncedAt": "2026-10-10T10:11:18.922Z"
         }
       ]
     },
