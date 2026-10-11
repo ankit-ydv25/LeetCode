@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T10:11:36.226Z",
+  "updatedAt": "2026-10-11T14:16:00.002Z",
   "problems": [
     {
       "frontendId": "41",
@@ -444,6 +444,26 @@
           "path": "ankit-ydv25/2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
           "sha": "d02f5e0690a7300ed5ffbf93273eb5670ef4f4a9",
           "lastSyncedAt": "2026-10-03T05:58:37.348Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "ankit-ydv25/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "ankit-ydv25/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2778-sum-of-squares-of-special-elements.cpp",
+          "path": "ankit-ydv25/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
+          "sha": "31106bd408aac5a41d9fd3aa30f5bb416ad456b2",
+          "lastSyncedAt": "2026-10-11T14:16:00.002Z"
         }
       ]
     },
