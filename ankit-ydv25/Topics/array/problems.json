@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T14:16:00.002Z",
+  "updatedAt": "2026-10-12T12:48:19.246Z",
   "problems": [
     {
       "frontendId": "41",
@@ -124,6 +124,26 @@
           "path": "ankit-ydv25/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "6de926538277475931b2630774ccbd4642990c71",
           "lastSyncedAt": "2026-09-18T15:28:03.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "ankit-ydv25/0682-baseball-game/",
+      "readmePath": "ankit-ydv25/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0682-baseball-game.cpp",
+          "path": "ankit-ydv25/0682-baseball-game/0682-baseball-game.cpp",
+          "sha": "4fc22c90f43c320b8d19b514804da9751a2e64b2",
+          "lastSyncedAt": "2026-10-12T12:48:19.246Z"
         }
       ]
     },
