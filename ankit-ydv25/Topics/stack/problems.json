@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-09-03T05:55:59.274Z",
+  "updatedAt": "2026-10-12T12:48:21.060Z",
   "problems": [
     {
       "frontendId": "144",
@@ -43,6 +44,26 @@
           "path": "ankit-ydv25/0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
           "sha": "ec4ec31a3d0c9853b6e5e22cab9ab8701709dc0c",
           "lastSyncedAt": "2026-09-03T05:55:59.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "ankit-ydv25/0682-baseball-game/",
+      "readmePath": "ankit-ydv25/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0682-baseball-game.cpp",
+          "path": "ankit-ydv25/0682-baseball-game/0682-baseball-game.cpp",
+          "sha": "4fc22c90f43c320b8d19b514804da9751a2e64b2",
+          "lastSyncedAt": "2026-10-12T12:48:21.060Z"
         }
       ]
     }
