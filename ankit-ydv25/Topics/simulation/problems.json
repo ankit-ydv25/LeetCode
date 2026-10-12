@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-10T10:11:36.226Z",
+  "updatedAt": "2026-10-12T12:48:21.060Z",
   "problems": [
     {
       "frontendId": "258",
@@ -44,6 +44,26 @@
           "path": "ankit-ydv25/0412-fizz-buzz/0412-fizz-buzz.cpp",
           "sha": "8bf308a683db786d1b75e4874ed2e77d117b93d4",
           "lastSyncedAt": "2026-10-05T13:23:22.082Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "ankit-ydv25/0682-baseball-game/",
+      "readmePath": "ankit-ydv25/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0682-baseball-game.cpp",
+          "path": "ankit-ydv25/0682-baseball-game/0682-baseball-game.cpp",
+          "sha": "4fc22c90f43c320b8d19b514804da9751a2e64b2",
+          "lastSyncedAt": "2026-10-12T12:48:21.060Z"
         }
       ]
     },
