@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-09T05:10:31.301Z",
+  "updatedAt": "2026-10-13T05:09:21.217Z",
   "problems": [
     {
       "frontendId": "75",
@@ -164,6 +164,26 @@
           "path": "ankit-ydv25/3024-type-of-triangle/3024-type-of-triangle.cpp",
           "sha": "89942b575f7602d5f491ec4aa5c29a8efad4308a",
           "lastSyncedAt": "2026-09-18T12:18:09.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3727-maximum-alternating-sum-of-squares.cpp",
+          "path": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
+          "sha": "de866c40e0f118dff6c344c5b8b46b0f6405645b",
+          "lastSyncedAt": "2026-10-13T05:09:21.217Z"
         }
       ]
     }
