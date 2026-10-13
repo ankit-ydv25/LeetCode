@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T12:48:21.060Z",
+  "updatedAt": "2026-10-13T05:09:21.217Z",
   "problems": [
     {
       "frontendId": "41",
@@ -584,6 +584,26 @@
           "path": "ankit-ydv25/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "0691ca2d873788ba2bb877be7bd5544f3b88b160",
           "lastSyncedAt": "2026-09-24T05:19:47.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3727-maximum-alternating-sum-of-squares.cpp",
+          "path": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
+          "sha": "de866c40e0f118dff6c344c5b8b46b0f6405645b",
+          "lastSyncedAt": "2026-10-13T05:09:21.217Z"
         }
       ]
     },
