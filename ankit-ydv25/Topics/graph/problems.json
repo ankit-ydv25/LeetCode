@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "graph",
-    "name": "Graph"
+    "name": "Graph Theory",
+    "tagId": "24"
   },
-  "updatedAt": "2026-09-02T04:32:33.844Z",
-  "problems": []
+  "updatedAt": "2026-10-14T06:40:06.863Z",
+  "problems": [
+    {
+      "frontendId": "1791",
+      "title": "Find Center of Star Graph",
+      "slug": "find-center-of-star-graph",
+      "problemName": "1791-find-center-of-star-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-center-of-star-graph/",
+      "folderPath": "ankit-ydv25/1791-find-center-of-star-graph/",
+      "readmePath": "ankit-ydv25/1791-find-center-of-star-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1791-find-center-of-star-graph.cpp",
+          "path": "ankit-ydv25/1791-find-center-of-star-graph/1791-find-center-of-star-graph.cpp",
+          "sha": "108b26c5dbaa6aa48eb03908afca3f4c74032249",
+          "lastSyncedAt": "2026-10-14T06:40:06.863Z"
+        }
+      ]
+    }
+  ]
 }
