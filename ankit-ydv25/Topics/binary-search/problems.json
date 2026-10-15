@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-15T15:47:38.321Z",
+  "updatedAt": "2026-10-15T15:48:20.488Z",
   "problems": [
     {
       "frontendId": "69",
@@ -43,7 +43,7 @@
           "filename": "0153-find-minimum-in-rotated-sorted-array.cpp",
           "path": "ankit-ydv25/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.cpp",
           "sha": "c8df1558ffd22e782620981118aba1a8e2779da0",
-          "lastSyncedAt": "2026-10-15T15:47:38.321Z"
+          "lastSyncedAt": "2026-10-15T15:48:20.488Z"
         }
       ]
     },
