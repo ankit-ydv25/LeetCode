@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T15:48:21.024Z",
+  "updatedAt": "2026-10-16T17:07:11.072Z",
   "problems": [
     {
       "frontendId": "41",
@@ -363,7 +363,7 @@
           "filename": "1920-build-array-from-permutation.cpp",
           "path": "ankit-ydv25/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "b24bb6d86acf2d7e50821347d47636cf875cf37c",
-          "lastSyncedAt": "2026-09-11T15:05:45.611Z"
+          "lastSyncedAt": "2026-10-16T17:07:11.072Z"
         }
       ]
     },
