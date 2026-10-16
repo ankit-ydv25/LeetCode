@@ -5,53 +5,54 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 48 | 10 | 2 |
+| 73 | 55 | 14 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 15 days | 31 |
+| 21 days | 21 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 1 |
-| 2026-09-23 | 1 |
-| 2026-09-24 | 1 |
-| 2026-09-26 | 3 |
-| 2026-09-27 | 1 |
-| 2026-09-28 | 1 |
-| 2026-09-29 | 1 |
-| 2026-09-30 | 1 |
-| 2026-10-01 | 2 |
-| 2026-10-02 | 2 |
 | 2026-10-03 | 3 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 1 |
+| 2026-10-07 | 1 |
+| 2026-10-08 | 1 |
+| 2026-10-09 | 1 |
+| 2026-10-10 | 1 |
+| 2026-10-11 | 3 |
+| 2026-10-12 | 1 |
+| 2026-10-13 | 1 |
+| 2026-10-14 | 1 |
+| 2026-10-15 | 2 |
+| 2026-10-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 31 | 52% |
-| Array | 23 | 38% |
-| String | 11 | 18% |
-| Simulation | 8 | 13% |
-| Hash Table | 6 | 10% |
-| Linked List | 5 | 8% |
-| Bit Manipulation | 4 | 7% |
-| Number Theory | 4 | 7% |
-| Sorting | 4 | 7% |
-| Two Pointers | 4 | 7% |
+| Array | 31 | 42% |
+| Math | 31 | 42% |
+| String | 12 | 16% |
+| Simulation | 10 | 14% |
+| Hash Table | 7 | 10% |
+| Sorting | 7 | 10% |
+| Two Pointers | 7 | 10% |
+| Linked List | 6 | 8% |
+| Bit Manipulation | 4 | 5% |
+| Number Theory | 4 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
@@ -61,17 +62,18 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
-| [Enumeration](Topics/enumeration/) | 2 |
+| [Enumeration](Topics/enumeration/) | 3 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 3 |
-| [Graph](Topics/graph/) | 0 |
+| [Graph Theory](Topics/graph/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 33 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -83,12 +85,13 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 8 |
-| [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 11 |
+| [Simulation](Topics/simulation/) | 10 |
+| [Sorting](Topics/sorting/) | 9 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 12 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
