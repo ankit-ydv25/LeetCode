@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-15T15:43:22.597Z",
+  "updatedAt": "2026-10-18T05:56:01.443Z",
   "problems": [
     {
       "frontendId": "13",
@@ -124,6 +124,26 @@
           "path": "ankit-ydv25/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
           "sha": "1de433a3abefbb64e69f88e7a7246d787175aae7",
           "lastSyncedAt": "2026-09-14T15:48:52.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2007",
+      "title": "Find Original Array From Doubled Array",
+      "slug": "find-original-array-from-doubled-array",
+      "problemName": "2007-find-original-array-from-doubled-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-original-array-from-doubled-array/",
+      "folderPath": "ankit-ydv25/2007-find-original-array-from-doubled-array/",
+      "readmePath": "ankit-ydv25/2007-find-original-array-from-doubled-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2007-find-original-array-from-doubled-array.cpp",
+          "path": "ankit-ydv25/2007-find-original-array-from-doubled-array/2007-find-original-array-from-doubled-array.cpp",
+          "sha": "295ac966c64a9f25157c2d46a1b923c8667c98c2",
+          "lastSyncedAt": "2026-10-18T05:56:01.443Z"
         }
       ]
     },
