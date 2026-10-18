@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 56 | 14 | 4 |
+| 77 | 58 | 14 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 21 days | 21 days | 41 |
+| 23 days | 23 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 3 |
-| 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 1 |
 | 2026-10-07 | 1 |
@@ -29,30 +27,32 @@ Contains topicwise list of solved problems.
 | 2026-10-14 | 1 |
 | 2026-10-15 | 2 |
 | 2026-10-16 | 2 |
+| 2026-10-17 | 2 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 43% |
-| Math | 31 | 42% |
-| String | 12 | 16% |
-| Simulation | 10 | 14% |
-| Two Pointers | 8 | 11% |
+| Array | 33 | 43% |
+| Math | 31 | 40% |
+| String | 14 | 18% |
+| Simulation | 10 | 13% |
+| Two Pointers | 8 | 10% |
 | Hash Table | 7 | 9% |
 | Sorting | 7 | 9% |
 | Linked List | 6 | 8% |
+| Binary Search | 4 | 5% |
 | Bit Manipulation | 4 | 5% |
-| Number Theory | 4 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 10 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
