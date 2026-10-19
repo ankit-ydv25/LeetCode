@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 58 | 14 | 5 |
+| 79 | 59 | 15 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 23 days | 23 days | 43 |
+| 24 days | 24 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 1 |
 | 2026-10-06 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
@@ -28,31 +27,32 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 2 |
 | 2026-10-16 | 2 |
 | 2026-10-17 | 2 |
-| 2026-10-18 | 1 |
+| 2026-10-18 | 2 |
+| 2026-10-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 43% |
-| Math | 31 | 40% |
+| Array | 35 | 44% |
+| Math | 31 | 39% |
 | String | 14 | 18% |
 | Simulation | 10 | 13% |
+| Sorting | 9 | 11% |
+| Hash Table | 8 | 10% |
 | Two Pointers | 8 | 10% |
-| Hash Table | 7 | 9% |
-| Sorting | 7 | 9% |
 | Linked List | 6 | 8% |
-| Binary Search | 4 | 5% |
+| Binary Search | 5 | 6% |
 | Bit Manipulation | 4 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
@@ -68,8 +68,8 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 3 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Greedy](Topics/greedy/) | 2 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
@@ -89,7 +89,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 10 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 2 |
