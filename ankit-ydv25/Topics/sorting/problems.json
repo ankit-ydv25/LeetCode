@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T05:56:01.443Z",
+  "updatedAt": "2026-10-19T13:15:13.729Z",
   "problems": [
     {
       "frontendId": "75",
@@ -164,6 +164,26 @@
           "path": "ankit-ydv25/2007-find-original-array-from-doubled-array/2007-find-original-array-from-doubled-array.cpp",
           "sha": "295ac966c64a9f25157c2d46a1b923c8667c98c2",
           "lastSyncedAt": "2026-10-18T05:56:01.443Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "ankit-ydv25/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "ankit-ydv25/2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2089-find-target-indices-after-sorting-array.cpp",
+          "path": "ankit-ydv25/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
+          "sha": "26fa9a96bb9c1d934ec7551086c08ab82ab2d1e0",
+          "lastSyncedAt": "2026-10-19T13:15:13.729Z"
         }
       ]
     },
