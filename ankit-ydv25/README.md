@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 59 | 15 | 5 |
+| 81 | 60 | 16 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 24 days | 24 days | 44 |
+| 26 days | 26 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 1 |
-| 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-10 | 1 |
@@ -29,38 +27,40 @@ Contains topicwise list of solved problems.
 | 2026-10-17 | 2 |
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
+| 2026-10-20 | 1 |
+| 2026-10-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 44% |
-| Math | 31 | 39% |
-| String | 14 | 18% |
-| Simulation | 10 | 13% |
+| Array | 36 | 44% |
+| Math | 31 | 38% |
+| String | 14 | 17% |
+| Simulation | 10 | 12% |
 | Sorting | 9 | 11% |
 | Hash Table | 8 | 10% |
 | Two Pointers | 8 | 10% |
-| Linked List | 6 | 8% |
-| Binary Search | 5 | 6% |
-| Bit Manipulation | 4 | 5% |
+| Binary Search | 6 | 7% |
+| Linked List | 6 | 7% |
+| Bit Manipulation | 5 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Enumeration](Topics/enumeration/) | 3 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
