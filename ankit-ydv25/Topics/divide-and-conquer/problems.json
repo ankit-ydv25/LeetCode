@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-09-16T14:02:18.116Z",
+  "updatedAt": "2026-10-21T08:52:11.539Z",
   "problems": [
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "ankit-ydv25/0190-reverse-bits/",
+      "readmePath": "ankit-ydv25/0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0190-reverse-bits.cpp",
+          "path": "ankit-ydv25/0190-reverse-bits/0190-reverse-bits.cpp",
+          "sha": "366279b0def691ebedb3b684421c0a00b6f650a3",
+          "lastSyncedAt": "2026-10-21T08:52:11.539Z"
+        }
+      ]
+    },
     {
       "frontendId": "215",
       "title": "Kth Largest Element in an Array",
