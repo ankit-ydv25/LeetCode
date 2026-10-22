@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-21T08:52:11.539Z",
+  "updatedAt": "2026-10-22T05:11:47.435Z",
   "problems": [
     {
       "frontendId": "190",
@@ -24,6 +24,26 @@
           "path": "ankit-ydv25/0190-reverse-bits/0190-reverse-bits.cpp",
           "sha": "366279b0def691ebedb3b684421c0a00b6f650a3",
           "lastSyncedAt": "2026-10-21T08:52:11.539Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "ankit-ydv25/0191-number-of-1-bits/",
+      "readmePath": "ankit-ydv25/0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0191-number-of-1-bits.cpp",
+          "path": "ankit-ydv25/0191-number-of-1-bits/0191-number-of-1-bits.cpp",
+          "sha": "2a2f32ab3a6ef3827b99415ee3b98fc1c72ec770",
+          "lastSyncedAt": "2026-10-22T05:11:47.435Z"
         }
       ]
     },
