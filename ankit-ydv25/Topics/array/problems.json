@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T08:10:20.406Z",
+  "updatedAt": "2026-10-23T12:33:40.552Z",
   "problems": [
     {
       "frontendId": "26",
@@ -364,6 +364,26 @@
           "path": "ankit-ydv25/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
           "sha": "c9007e6288cf325debe332c8ea508039eb5fafcd",
           "lastSyncedAt": "2026-09-10T12:51:46.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1816",
+      "title": "Truncate Sentence",
+      "slug": "truncate-sentence",
+      "problemName": "1816-truncate-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/truncate-sentence/",
+      "folderPath": "ankit-ydv25/1816-truncate-sentence/",
+      "readmePath": "ankit-ydv25/1816-truncate-sentence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1816-truncate-sentence.cpp",
+          "path": "ankit-ydv25/1816-truncate-sentence/1816-truncate-sentence.cpp",
+          "sha": "1294468da8611e7bbe64bfcecbdda59b94401dec",
+          "lastSyncedAt": "2026-10-23T12:33:40.552Z"
         }
       ]
     },
