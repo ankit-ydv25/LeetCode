@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T12:33:40.552Z",
+  "updatedAt": "2026-10-23T13:09:17.656Z",
   "problems": [
     {
       "frontendId": "13",
@@ -224,6 +224,26 @@
           "path": "ankit-ydv25/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
           "sha": "a1dfd57bf99282ea2b5e73ee80cd872d95cbe43a",
           "lastSyncedAt": "2026-09-17T07:21:23.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "problemName": "2390-removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "folderPath": "ankit-ydv25/2390-removing-stars-from-a-string/",
+      "readmePath": "ankit-ydv25/2390-removing-stars-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2390-removing-stars-from-a-string.cpp",
+          "path": "ankit-ydv25/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp",
+          "sha": "ecb4d14b64f08926720a48a484d5f4f67bf205cd",
+          "lastSyncedAt": "2026-10-23T13:09:17.656Z"
         }
       ]
     },
