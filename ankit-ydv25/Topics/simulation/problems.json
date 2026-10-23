@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-16T17:07:11.072Z",
+  "updatedAt": "2026-10-23T13:09:17.656Z",
   "problems": [
     {
       "frontendId": "258",
@@ -184,6 +184,26 @@
           "path": "ankit-ydv25/2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "2792bbfcd6b1812f9611a28cce61a13bb59e42b2",
           "lastSyncedAt": "2026-10-01T06:14:47.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "problemName": "2390-removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "folderPath": "ankit-ydv25/2390-removing-stars-from-a-string/",
+      "readmePath": "ankit-ydv25/2390-removing-stars-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2390-removing-stars-from-a-string.cpp",
+          "path": "ankit-ydv25/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp",
+          "sha": "ecb4d14b64f08926720a48a484d5f4f67bf205cd",
+          "lastSyncedAt": "2026-10-23T13:09:17.656Z"
         }
       ]
     },
