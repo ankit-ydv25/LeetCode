@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T05:21:42.988Z",
+  "updatedAt": "2026-10-23T12:33:40.552Z",
   "problems": [
     {
       "frontendId": "13",
@@ -164,6 +164,26 @@
           "path": "ankit-ydv25/1108-defanging-an-ip-address/1108-defanging-an-ip-address.cpp",
           "sha": "ef0a8c041af65ca528fc53174fd909c1f3b1e7af",
           "lastSyncedAt": "2026-10-17T06:12:16.923Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1816",
+      "title": "Truncate Sentence",
+      "slug": "truncate-sentence",
+      "problemName": "1816-truncate-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/truncate-sentence/",
+      "folderPath": "ankit-ydv25/1816-truncate-sentence/",
+      "readmePath": "ankit-ydv25/1816-truncate-sentence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1816-truncate-sentence.cpp",
+          "path": "ankit-ydv25/1816-truncate-sentence/1816-truncate-sentence.cpp",
+          "sha": "1294468da8611e7bbe64bfcecbdda59b94401dec",
+          "lastSyncedAt": "2026-10-23T12:33:40.552Z"
         }
       ]
     },
