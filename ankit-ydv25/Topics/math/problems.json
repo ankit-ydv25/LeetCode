@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-06T13:05:50.857Z",
+  "updatedAt": "2026-10-24T05:17:21.598Z",
   "problems": [
     {
       "frontendId": "13",
@@ -443,6 +444,26 @@
           "path": "ankit-ydv25/2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "2792bbfcd6b1812f9611a28cce61a13bb59e42b2",
           "lastSyncedAt": "2026-10-01T06:14:47.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "ankit-ydv25/2409-count-days-spent-together/",
+      "readmePath": "ankit-ydv25/2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "ankit-ydv25/2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "e7a46884aaa1561d1272656c69ad4ea5eaa79897",
+          "lastSyncedAt": "2026-10-24T05:17:21.598Z"
         }
       ]
     },
