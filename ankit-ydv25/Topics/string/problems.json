@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T05:17:21.598Z",
+  "updatedAt": "2026-10-25T06:06:53.573Z",
   "problems": [
     {
       "frontendId": "13",
@@ -144,6 +144,26 @@
           "path": "ankit-ydv25/0709-to-lower-case/0709-to-lower-case.cpp",
           "sha": "92d6a356b45558e4db1370645518bda65c91f7d7",
           "lastSyncedAt": "2026-09-18T15:44:20.259Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "ankit-ydv25/0844-backspace-string-compare/",
+      "readmePath": "ankit-ydv25/0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0844-backspace-string-compare.cpp",
+          "path": "ankit-ydv25/0844-backspace-string-compare/0844-backspace-string-compare.cpp",
+          "sha": "2712babe18f774554f39081f0ed064977aa83f07",
+          "lastSyncedAt": "2026-10-25T06:06:53.573Z"
         }
       ]
     },
