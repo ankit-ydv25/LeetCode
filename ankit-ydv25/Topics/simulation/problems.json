@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T13:09:17.656Z",
+  "updatedAt": "2026-10-25T06:06:53.573Z",
   "problems": [
     {
       "frontendId": "258",
@@ -64,6 +64,26 @@
           "path": "ankit-ydv25/0682-baseball-game/0682-baseball-game.cpp",
           "sha": "4fc22c90f43c320b8d19b514804da9751a2e64b2",
           "lastSyncedAt": "2026-10-12T12:48:19.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "ankit-ydv25/0844-backspace-string-compare/",
+      "readmePath": "ankit-ydv25/0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0844-backspace-string-compare.cpp",
+          "path": "ankit-ydv25/0844-backspace-string-compare/0844-backspace-string-compare.cpp",
+          "sha": "2712babe18f774554f39081f0ed064977aa83f07",
+          "lastSyncedAt": "2026-10-25T06:06:53.573Z"
         }
       ]
     },
