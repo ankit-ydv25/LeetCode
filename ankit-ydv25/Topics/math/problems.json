@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T05:17:21.598Z",
+  "updatedAt": "2026-10-26T17:35:26.311Z",
   "problems": [
     {
       "frontendId": "13",
@@ -304,6 +304,26 @@
           "path": "ankit-ydv25/1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
           "sha": "fadc2d59ea2074382d41ff12a8878d3433b52683",
           "lastSyncedAt": "2026-09-28T15:31:31.627Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "ankit-ydv25/1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "ankit-ydv25/1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "path": "ankit-ydv25/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "sha": "3b981213fb5c2b3e21a656c43d63b063062838fd",
+          "lastSyncedAt": "2026-10-26T17:35:26.311Z"
         }
       ]
     },
