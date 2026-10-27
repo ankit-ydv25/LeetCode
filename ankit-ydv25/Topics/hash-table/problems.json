@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T05:56:01.443Z",
+  "updatedAt": "2026-10-27T04:41:05.637Z",
   "problems": [
     {
       "frontendId": "13",
@@ -144,6 +144,26 @@
           "path": "ankit-ydv25/2007-find-original-array-from-doubled-array/2007-find-original-array-from-doubled-array.cpp",
           "sha": "295ac966c64a9f25157c2d46a1b923c8667c98c2",
           "lastSyncedAt": "2026-10-18T05:56:01.443Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2404",
+      "title": "Most Frequent Even Element",
+      "slug": "most-frequent-even-element",
+      "problemName": "2404-most-frequent-even-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/most-frequent-even-element/",
+      "folderPath": "ankit-ydv25/2404-most-frequent-even-element/",
+      "readmePath": "ankit-ydv25/2404-most-frequent-even-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2404-most-frequent-even-element.cpp",
+          "path": "ankit-ydv25/2404-most-frequent-even-element/2404-most-frequent-even-element.cpp",
+          "sha": "3a2180b9b78d24187da6e21d496220fa28d58b71",
+          "lastSyncedAt": "2026-10-27T04:41:05.637Z"
         }
       ]
     },
