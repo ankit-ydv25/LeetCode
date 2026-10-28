@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-19T13:15:13.729Z",
+  "updatedAt": "2026-10-28T18:08:50.285Z",
   "problems": [
     {
       "frontendId": "75",
@@ -84,6 +84,26 @@
           "path": "ankit-ydv25/0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "964a7cb0567250d22b0446ba6ba0cb2074d2f46c",
           "lastSyncedAt": "2026-09-02T04:34:36.819Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "ankit-ydv25/0349-intersection-of-two-arrays/",
+      "readmePath": "ankit-ydv25/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "ankit-ydv25/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "2ffbdf8323a5e0d1f802cb88cdd187997293ae13",
+          "lastSyncedAt": "2026-10-28T18:08:50.285Z"
         }
       ]
     },
