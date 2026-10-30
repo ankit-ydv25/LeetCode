@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-25T06:06:53.573Z",
+  "updatedAt": "2026-10-30T14:56:36.929Z",
   "problems": [
     {
       "frontendId": "13",
@@ -184,6 +184,26 @@
           "path": "ankit-ydv25/1108-defanging-an-ip-address/1108-defanging-an-ip-address.cpp",
           "sha": "ef0a8c041af65ca528fc53174fd909c1f3b1e7af",
           "lastSyncedAt": "2026-10-17T06:12:16.923Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "ankit-ydv25/1528-shuffle-string/",
+      "readmePath": "ankit-ydv25/1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1528-shuffle-string.cpp",
+          "path": "ankit-ydv25/1528-shuffle-string/1528-shuffle-string.cpp",
+          "sha": "1fa8c383dd67ca8d67d028077af4177ee1f75bea",
+          "lastSyncedAt": "2026-10-30T14:56:36.929Z"
         }
       ]
     },
