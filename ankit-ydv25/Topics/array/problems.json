@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-30T14:56:36.929Z",
+  "updatedAt": "2026-10-31T10:50:17.631Z",
   "problems": [
     {
       "frontendId": "26",
@@ -404,6 +404,26 @@
           "path": "ankit-ydv25/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
           "sha": "c9007e6288cf325debe332c8ea508039eb5fafcd",
           "lastSyncedAt": "2026-09-10T12:51:46.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "ankit-ydv25/1732-find-the-highest-altitude/",
+      "readmePath": "ankit-ydv25/1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1732-find-the-highest-altitude.cpp",
+          "path": "ankit-ydv25/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
+          "sha": "938a5f0f778740e0b3c44f2e583691ac7e0aee11",
+          "lastSyncedAt": "2026-10-31T10:50:17.631Z"
         }
       ]
     },
