@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-09-05T04:49:17.143Z",
+  "updatedAt": "2026-10-31T10:50:17.631Z",
   "problems": [
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "ankit-ydv25/1732-find-the-highest-altitude/",
+      "readmePath": "ankit-ydv25/1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1732-find-the-highest-altitude.cpp",
+          "path": "ankit-ydv25/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
+          "sha": "938a5f0f778740e0b3c44f2e583691ac7e0aee11",
+          "lastSyncedAt": "2026-10-31T10:50:17.631Z"
+        }
+      ]
+    },
     {
       "frontendId": "3903",
       "title": "Smallest Stable Index I",
