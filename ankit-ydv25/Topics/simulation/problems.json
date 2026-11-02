@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-25T06:06:53.573Z",
+  "updatedAt": "2026-11-02T13:20:28.256Z",
   "problems": [
     {
       "frontendId": "258",
@@ -224,6 +224,26 @@
           "path": "ankit-ydv25/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp",
           "sha": "ecb4d14b64f08926720a48a484d5f4f67bf205cd",
           "lastSyncedAt": "2026-10-23T13:09:17.656Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3168",
+      "title": "Minimum Number of Chairs in a Waiting Room",
+      "slug": "minimum-number-of-chairs-in-a-waiting-room",
+      "problemName": "3168-minimum-number-of-chairs-in-a-waiting-room",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/",
+      "folderPath": "ankit-ydv25/3168-minimum-number-of-chairs-in-a-waiting-room/",
+      "readmePath": "ankit-ydv25/3168-minimum-number-of-chairs-in-a-waiting-room/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3168-minimum-number-of-chairs-in-a-waiting-room.cpp",
+          "path": "ankit-ydv25/3168-minimum-number-of-chairs-in-a-waiting-room/3168-minimum-number-of-chairs-in-a-waiting-room.cpp",
+          "sha": "fc5ba03643d89694769dea607cf13be03268f87f",
+          "lastSyncedAt": "2026-11-02T13:20:28.256Z"
         }
       ]
     },
