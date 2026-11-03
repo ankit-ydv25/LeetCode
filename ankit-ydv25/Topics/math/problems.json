@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-26T17:35:26.311Z",
+  "updatedAt": "2026-11-03T04:27:45.047Z",
   "problems": [
     {
       "frontendId": "13",
@@ -704,6 +704,26 @@
           "path": "ankit-ydv25/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "0691ca2d873788ba2bb877be7bd5544f3b88b160",
           "lastSyncedAt": "2026-09-24T05:19:47.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "ankit-ydv25/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "ankit-ydv25/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "path": "ankit-ydv25/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "sha": "8fbb60481374c49b678c3c1c557e48435530b994",
+          "lastSyncedAt": "2026-11-03T04:27:45.047Z"
         }
       ]
     }
