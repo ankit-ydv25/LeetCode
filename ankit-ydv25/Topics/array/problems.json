@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-01T15:06:17.006Z",
+  "updatedAt": "2026-11-03T04:27:45.047Z",
   "problems": [
     {
       "frontendId": "26",
@@ -864,6 +864,26 @@
           "path": "ankit-ydv25/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "de866c40e0f118dff6c344c5b8b46b0f6405645b",
           "lastSyncedAt": "2026-10-13T05:09:21.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "ankit-ydv25/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "ankit-ydv25/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "path": "ankit-ydv25/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "sha": "8fbb60481374c49b678c3c1c557e48435530b994",
+          "lastSyncedAt": "2026-11-03T04:27:45.047Z"
         }
       ]
     },
