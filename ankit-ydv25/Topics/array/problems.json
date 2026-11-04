@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T12:17:31.920Z",
+  "updatedAt": "2026-11-04T06:04:54.598Z",
   "problems": [
     {
       "frontendId": "26",
@@ -204,6 +204,26 @@
           "path": "ankit-ydv25/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "2ffbdf8323a5e0d1f802cb88cdd187997293ae13",
           "lastSyncedAt": "2026-10-28T18:08:50.285Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "problemName": "0453-minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+      "folderPath": "ankit-ydv25/0453-minimum-moves-to-equal-array-elements/",
+      "readmePath": "ankit-ydv25/0453-minimum-moves-to-equal-array-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0453-minimum-moves-to-equal-array-elements.cpp",
+          "path": "ankit-ydv25/0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.cpp",
+          "sha": "0fb425e6ec2c2daff61759ac928558f8e61aea8a",
+          "lastSyncedAt": "2026-11-04T06:04:54.598Z"
         }
       ]
     },
