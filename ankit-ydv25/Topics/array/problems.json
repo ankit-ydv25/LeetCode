@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T06:04:54.598Z",
+  "updatedAt": "2026-11-05T10:34:10.970Z",
   "problems": [
     {
       "frontendId": "26",
@@ -384,6 +384,26 @@
           "path": "ankit-ydv25/1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
           "sha": "fadc2d59ea2074382d41ff12a8878d3433b52683",
           "lastSyncedAt": "2026-09-28T15:31:31.627Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "ankit-ydv25/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "ankit-ydv25/1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1385-find-the-distance-value-between-two-arrays.cpp",
+          "path": "ankit-ydv25/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.cpp",
+          "sha": "5fde64e0f9bf722b42ffca655ed690ae88a968a0",
+          "lastSyncedAt": "2026-11-05T10:34:10.970Z"
         }
       ]
     },
