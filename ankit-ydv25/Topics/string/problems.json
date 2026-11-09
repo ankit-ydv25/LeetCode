@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-02T13:20:28.256Z",
+  "updatedAt": "2026-11-09T12:16:26.350Z",
   "problems": [
     {
       "frontendId": "13",
@@ -204,6 +204,26 @@
           "path": "ankit-ydv25/1528-shuffle-string/1528-shuffle-string.cpp",
           "sha": "1fa8c383dd67ca8d67d028077af4177ee1f75bea",
           "lastSyncedAt": "2026-10-30T14:56:36.929Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1678",
+      "title": "Goal Parser Interpretation",
+      "slug": "goal-parser-interpretation",
+      "problemName": "1678-goal-parser-interpretation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/goal-parser-interpretation/",
+      "folderPath": "ankit-ydv25/1678-goal-parser-interpretation/",
+      "readmePath": "ankit-ydv25/1678-goal-parser-interpretation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1678-goal-parser-interpretation.cpp",
+          "path": "ankit-ydv25/1678-goal-parser-interpretation/1678-goal-parser-interpretation.cpp",
+          "sha": "47b1dda8f717f9e76d136cdd06e36c55a2d56225",
+          "lastSyncedAt": "2026-11-09T12:16:26.350Z"
         }
       ]
     },
