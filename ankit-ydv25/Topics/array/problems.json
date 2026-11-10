@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T11:11:00.874Z",
+  "updatedAt": "2026-11-10T14:44:04.520Z",
   "problems": [
     {
       "frontendId": "26",
@@ -704,6 +704,26 @@
           "path": "ankit-ydv25/2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "298e738fb7aba1e8e1fb6825e56c50708092ced0",
           "lastSyncedAt": "2026-09-29T04:30:15.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2150",
+      "title": "Find All Lonely Numbers in the Array",
+      "slug": "find-all-lonely-numbers-in-the-array",
+      "problemName": "2150-find-all-lonely-numbers-in-the-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/",
+      "folderPath": "ankit-ydv25/2150-find-all-lonely-numbers-in-the-array/",
+      "readmePath": "ankit-ydv25/2150-find-all-lonely-numbers-in-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2150-find-all-lonely-numbers-in-the-array.cpp",
+          "path": "ankit-ydv25/2150-find-all-lonely-numbers-in-the-array/2150-find-all-lonely-numbers-in-the-array.cpp",
+          "sha": "1f967a1997aac0d32030bfea8529c7b5b515a45a",
+          "lastSyncedAt": "2026-11-10T14:44:04.520Z"
         }
       ]
     },
