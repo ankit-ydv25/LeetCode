@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T14:44:04.520Z",
+  "updatedAt": "2026-11-11T05:41:53.906Z",
   "problems": [
     {
       "frontendId": "26",
@@ -924,6 +924,26 @@
           "path": "ankit-ydv25/3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
           "sha": "7fbe64d2f6bdca6cdd5602180f66d652699011b1",
           "lastSyncedAt": "2026-09-15T13:09:58.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3423",
+      "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+      "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+      "problemName": "3423-maximum-difference-between-adjacent-elements-in-a-circular-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/",
+      "folderPath": "ankit-ydv25/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/",
+      "readmePath": "ankit-ydv25/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3423-maximum-difference-between-adjacent-elements-in-a-circular-array.cpp",
+          "path": "ankit-ydv25/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.cpp",
+          "sha": "e3a0f8dfb9916772a2e59cd6489c93de4537a2f7",
+          "lastSyncedAt": "2026-11-11T05:41:53.906Z"
         }
       ]
     },
