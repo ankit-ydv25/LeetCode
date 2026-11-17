@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T05:36:01.295Z",
+  "updatedAt": "2026-11-17T19:05:07.882Z",
   "problems": [
     {
       "frontendId": "13",
@@ -444,6 +444,26 @@
           "path": "ankit-ydv25/3110-score-of-a-string/3110-score-of-a-string.cpp",
           "sha": "a299f51fef8e2a80979dc90dfa92f6341a7e10f9",
           "lastSyncedAt": "2026-09-15T12:58:44.189Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3136",
+      "title": "Valid Word",
+      "slug": "valid-word",
+      "problemName": "3136-valid-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-word/",
+      "folderPath": "ankit-ydv25/3136-valid-word/",
+      "readmePath": "ankit-ydv25/3136-valid-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3136-valid-word.cpp",
+          "path": "ankit-ydv25/3136-valid-word/3136-valid-word.cpp",
+          "sha": "6480737c2efb73891f13ed77687731843bfc7fbc",
+          "lastSyncedAt": "2026-11-17T19:05:07.882Z"
         }
       ]
     },
