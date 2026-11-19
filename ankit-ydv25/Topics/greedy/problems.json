@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-18T05:56:01.443Z",
+  "updatedAt": "2026-11-19T18:33:54.197Z",
   "problems": [
     {
       "frontendId": "2007",
@@ -24,6 +24,26 @@
           "path": "ankit-ydv25/2007-find-original-array-from-doubled-array/2007-find-original-array-from-doubled-array.cpp",
           "sha": "295ac966c64a9f25157c2d46a1b923c8667c98c2",
           "lastSyncedAt": "2026-10-18T05:56:01.443Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "ankit-ydv25/2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "ankit-ydv25/2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2567-minimum-score-by-changing-two-elements.cpp",
+          "path": "ankit-ydv25/2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.cpp",
+          "sha": "b1ce785acaedfe63044fd9e72a29bb8dccf551db",
+          "lastSyncedAt": "2026-11-19T18:33:54.197Z"
         }
       ]
     },
