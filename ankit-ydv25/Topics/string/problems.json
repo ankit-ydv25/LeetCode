@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-18T14:21:33.173Z",
+  "updatedAt": "2026-11-22T19:26:51.029Z",
   "problems": [
     {
       "frontendId": "13",
@@ -324,6 +324,26 @@
           "path": "ankit-ydv25/2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.cpp",
           "sha": "b8ab2c60e661355bce3eddc76b6931247b1fb433",
           "lastSyncedAt": "2026-11-01T15:06:17.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "ankit-ydv25/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "ankit-ydv25/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.cpp",
+          "path": "ankit-ydv25/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp",
+          "sha": "47eae0ff3d3015578fb570a63541ce27d0668e45",
+          "lastSyncedAt": "2026-11-22T19:26:51.029Z"
         }
       ]
     },
