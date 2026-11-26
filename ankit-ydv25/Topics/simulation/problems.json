@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-16T05:36:01.295Z",
+  "updatedAt": "2026-11-26T15:48:30.817Z",
   "problems": [
     {
       "frontendId": "258",
@@ -264,6 +264,26 @@
           "path": "ankit-ydv25/3168-minimum-number-of-chairs-in-a-waiting-room/3168-minimum-number-of-chairs-in-a-waiting-room.cpp",
           "sha": "fc5ba03643d89694769dea607cf13be03268f87f",
           "lastSyncedAt": "2026-11-02T13:20:28.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "ankit-ydv25/3360-stone-removal-game/",
+      "readmePath": "ankit-ydv25/3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3360-stone-removal-game.cpp",
+          "path": "ankit-ydv25/3360-stone-removal-game/3360-stone-removal-game.cpp",
+          "sha": "06127b87767b06201060c73f55235ac56226b6e9",
+          "lastSyncedAt": "2026-11-26T15:48:30.817Z"
         }
       ]
     },
